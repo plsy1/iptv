@@ -2,39 +2,39 @@
 # 央视频道（高清）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="IPTV央视频道（高清）",CCTV-1（高清）
 http://192.168.0.1:4022/rtp/239.253.240.77:8000
-#EXTINF:-1,CCTV-2（高清）
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="IPTV央视频道（高清）",CCTV-2（高清）
 http://192.168.0.1:4022/rtp/239.253.240.232:8000
-#EXTINF:-1,CCTV-3（高清）
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="IPTV央视频道（高清）",CCTV-3（高清）
 http://192.168.0.1:4022/rtp/239.253.240.191:8000
-#EXTINF:-1,CCTV-4（高清）
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="IPTV央视频道（高清）",CCTV-4（高清）
 http://192.168.0.1:4022/rtp/239.253.240.111:8000
-#EXTINF:-1,CCTV-5（高清）
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="IPTV央视频道（高清）",CCTV-5（高清）
 http://192.168.0.1:4022/rtp/239.253.240.192:8000
-#EXTINF:-1,CCTV-5+（高清）
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="IPTV央视频道（高清）",CCTV-5+（高清）
 http://192.168.0.1:4022/rtp/239.253.240.80:8000
-#EXTINF:-1,CCTV-6（高清）
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="IPTV央视频道（高清）",CCTV-6（高清）
 http://192.168.0.1:4022/rtp/239.253.240.193:8000
-#EXTINF:-1,CCTV-7（高清）
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="IPTV央视频道（高清）",CCTV-7（高清）
 http://192.168.0.1:4022/rtp/239.253.240.233:8000
-#EXTINF:-1,CCTV-8（高清）
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="IPTV央视频道（高清）",CCTV-8（高清）
 http://192.168.0.1:4022/rtp/239.253.240.194:8000
-#EXTINF:-1,CCTV-9（高清）
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="IPTV央视频道（高清）",CCTV-9（高清）
 http://192.168.0.1:4022/rtp/239.253.240.79:8000
-#EXTINF:-1,CCTV-10（高清）
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="IPTV央视频道（高清）",CCTV-10（高清）
 http://192.168.0.1:4022/rtp/239.253.240.234:8000
-#EXTINF:-1,CCTV-11（高清）
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="IPTV央视频道（高清）",CCTV-11（高清）
 http://192.168.0.1:4022/rtp/239.253.240.169:8000
-#EXTINF:-1,CCTV-12（高清）
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="IPTV央视频道（高清）",CCTV-12（高清）
 http://192.168.0.1:4022/rtp/239.253.240.235:8000
-#EXTINF:-1,CCTV-13（高清）
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="IPTV央视频道（高清）",CCTV-13（高清）
 http://192.168.0.1:4022/rtp/239.253.240.175:8000
-#EXTINF:-1,CCTV-14（高清）
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="IPTV央视频道（高清）",CCTV-14（高清）
 http://192.168.0.1:4022/rtp/239.253.240.236:8000
-#EXTINF:-1,CCTV-15（高清）
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="IPTV央视频道（高清）",CCTV-15（高清）
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
-#EXTINF:-1,CCTV-4K（超高清）
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="IPTV央视频道（高清）",CCTV-16（4K）
 http://192.168.0.1:4022/rtp/239.253.240.122:8000
-#EXTINF:-1,CCTV-17（高清）
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="IPTV央视频道（高清）",CCTV-17（高清）
 http://192.168.0.1:4022/rtp/239.253.240.168:8000
 
 # 山东频道（高清）
