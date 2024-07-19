@@ -38,35 +38,35 @@ http://192.168.0.1:4022/rtp/239.253.240.168:8000
 http://192.168.0.1:4022/rtp/239.253.240.122:8000
 
 # 山东频道（高清）
-#EXTINF:-1,山东卫视（高清）
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="IPTV山东频道（高清）",山东卫视（高清）
 http://192.168.0.1:4022/rtp/239.253.240.78:8000
-#EXTINF:-1,山东齐鲁（高清）
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="IPTV山东频道（高清）",山东齐鲁（高清）
 http://192.168.0.1:4022/rtp/239.253.240.114:8000
-#EXTINF:-1,山东综艺（高清）
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="IPTV山东频道（高清）",山东综艺（高清）
 http://192.168.0.1:4022/rtp/239.253.240.159:8000
-#EXTINF:-1,山东体育（高清）
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="IPTV山东频道（高清）",山东体育（高清）
 http://192.168.0.1:4022/rtp/239.253.240.81:8000
-#EXTINF:-1,山东新闻（高清）
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="IPTV山东频道（高清）",山东新闻（高清）
 http://192.168.0.1:4022/rtp/239.253.240.23:8000
-#EXTINF:-1,山东农科（高清）
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="IPTV山东频道（高清）",山东农科（高清）
 http://192.168.0.1:4022/rtp/239.253.240.24:8000
-#EXTINF:-1,山东少儿（高清）
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="IPTV山东频道（高清）",山东少儿（高清）
 http://192.168.0.1:4022/rtp/239.253.240.25:8000
-#EXTINF:-1,山东生活（高清）
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="IPTV山东频道（高清）",山东生活（高清）
 http://192.168.0.1:4022/rtp/239.253.240.151:8000
-#EXTINF:-1,山东文旅（高清）
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="IPTV山东频道（高清）",山东文旅（高清）
 http://192.168.0.1:4022/rtp/239.253.240.160:8000
-#EXTINF:-1,山东体育休闲（高清）
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="IPTV山东频道（高清）",山东体育（高清）
 http://192.168.0.1:4022/rtp/239.253.240.22:8000
-#EXTINF:-1,山东体育休闲（高清）
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="IPTV山东频道（高清）",山东体育（高清）
 http://192.168.0.1:4022/rtp/239.253.240.158:8000
-#EXTINF:-1,山东居家购物（高清）
+#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://live.fanmingming.com/tv/山东居家购物.png" group-title="IPTV山东频道（高清）",山东居家购物（高清）
 http://192.168.0.1:4022/rtp/239.253.240.104:8000
-#EXTINF:-1,山东教育卫视（高清）
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="IPTV山东频道（高清）",山东教育卫视（高清）
 http://192.168.0.1:4022/rtp/239.253.240.59:8000
-#EXTINF:-1,山东经济广播
+#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://live.fanmingming.com/tv/山东经济广播.png" group-title="IPTV山东频道（高清）",山东经济广播（高清）
 http://192.168.0.1:4022/rtp/239.253.240.166:8000
-#EXTINF:-1,山东海洋频道（高清）
+#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="https://live.fanmingming.com/tv/山东海洋频道.png" group-title="IPTV山东频道（高清）",山东山东海洋频道（高清）
 http://192.168.0.1:4022/rtp/239.253.240.67:8000
 
 # 地方频道
