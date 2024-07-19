@@ -70,25 +70,25 @@ http://192.168.0.1:4022/rtp/239.253.240.166:8000
 http://192.168.0.1:4022/rtp/239.253.240.67:8000
 
 # 地方频道
-#EXTINF:-1,泰山（高清）
+#EXTINF:-1 tvg-name="泰山TV" tvg-logo="" group-title="IPTV地方频道",泰山TV（高清）
 http://192.168.0.1:4022/rtp/239.253.240.244:8000
-#EXTINF:-1,岱岳（高清）
+#EXTINF:-1 tvg-name="岱岳TV" tvg-logo="" group-title="IPTV地方频道",岱岳TV（高清）
 http://192.168.0.1:4022/rtp/239.253.240.245:8000
-#EXTINF:-1,新泰乡村（高清）
+#EXTINF:-1 tvg-name="新泰乡村" tvg-logo="" group-title="IPTV地方频道",新泰乡村（高清）
 http://192.168.0.1:4022/rtp/239.253.240.246:8000
-#EXTINF:-1,NYTV-1（宁阳综合，高清）
+#EXTINF:-1 tvg-name="NYTV-1" tvg-logo="" group-title="IPTV地方频道",宁阳TV-1（高清）
 http://192.168.0.1:4022/rtp/239.253.240.247:8000
-#EXTINF:-1,NYTV-2（宁阳）
+#EXTINF:-1 tvg-name="NYTV-2" tvg-logo="" group-title="IPTV地方频道",宁阳TV-2
 http://192.168.0.1:4022/rtp/239.253.240.248:8000
-#EXTINF:-1,东平综合（高清）
+#EXTINF:-1 tvg-name="东平综合" tvg-logo="" group-title="IPTV地方频道",东平综合（高清）
 http://192.168.0.1:4022/rtp/239.253.240.249:8000
-#EXTINF:-1,新泰综合（高清）
+#EXTINF:-1 tvg-name="新泰综合" tvg-logo="" group-title="IPTV地方频道",新泰综合（高清）
 http://192.168.0.1:4022/rtp/239.253.240.250:8000
-#EXTINF:-1,肥城综合（高清）
+#EXTINF:-1 tvg-name="肥城综合" tvg-logo="" group-title="IPTV地方频道",肥城综合（高清）
 http://192.168.0.1:4022/rtp/239.253.240.251:8000
-#EXTINF:-1,泰安综合（高清）
+#EXTINF:-1 tvg-name="泰安综合" tvg-logo="" group-title="IPTV地方频道",泰安综合（高清）
 http://192.168.0.1:4022/rtp/239.253.240.252:8000
-#EXTINF:-1,泰安经济生活（高清）
+#EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="" group-title="IPTV地方频道",泰安经济生活（高清）
 http://192.168.0.1:4022/rtp/239.253.240.253:8000
 
 # 卫视频道（高清）
