@@ -32,10 +32,10 @@ http://192.168.0.1:4022/rtp/239.253.240.175:8000
 http://192.168.0.1:4022/rtp/239.253.240.236:8000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="IPTV央视频道（高清）",CCTV-15（高清）
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="IPTV央视频道（高清）",CCTV-16（4K）
-http://192.168.0.1:4022/rtp/239.253.240.122:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="IPTV央视频道（高清）",CCTV-17（高清）
 http://192.168.0.1:4022/rtp/239.253.240.168:8000
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="IPTV央视频道（高清）",CCTV-4K
+http://192.168.0.1:4022/rtp/239.253.240.122:8000
 
 # 山东频道（高清）
 #EXTINF:-1,山东卫视（高清）
