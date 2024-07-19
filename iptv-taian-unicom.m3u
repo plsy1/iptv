@@ -60,13 +60,13 @@ http://192.168.0.1:4022/rtp/239.253.240.160:8000
 http://192.168.0.1:4022/rtp/239.253.240.22:8000
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="IPTV山东频道（高清）",山东体育（高清）
 http://192.168.0.1:4022/rtp/239.253.240.158:8000
-#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://live.fanmingming.com/tv/山东居家购物.png" group-title="IPTV山东频道（高清）",山东居家购物（高清）
+#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="" group-title="IPTV山东频道（高清）",山东居家购物（高清）
 http://192.168.0.1:4022/rtp/239.253.240.104:8000
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="IPTV山东频道（高清）",山东教育卫视（高清）
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="" group-title="IPTV山东频道（高清）",山东教育卫视（高清）
 http://192.168.0.1:4022/rtp/239.253.240.59:8000
-#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://live.fanmingming.com/tv/山东经济广播.png" group-title="IPTV山东频道（高清）",山东经济广播（高清）
+#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="" group-title="IPTV山东频道（高清）",山东经济广播（高清）
 http://192.168.0.1:4022/rtp/239.253.240.166:8000
-#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="https://live.fanmingming.com/tv/山东海洋频道.png" group-title="IPTV山东频道（高清）",山东山东海洋频道（高清）
+#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="" group-title="IPTV山东频道（高清）",山东山东海洋频道（高清）
 http://192.168.0.1:4022/rtp/239.253.240.67:8000
 
 # 地方频道
