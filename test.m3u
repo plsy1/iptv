@@ -43,3 +43,15 @@ http://192.168.0.1:4022/rtp/239.253.240.51:8000
 http://192.168.0.1:4022/rtp/239.253.240.52:8000
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="IPTV卫视频道（标清）",青海卫视
 http://192.168.0.1:4022/rtp/239.253.240.54:8000
+
+# 山东频道（标清）
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="IPTV山东频道（标清）",山东卫视
+http://192.168.0.1:4022/rtp/239.253.240.2:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="IPTV山东频道（标清）",山东文旅
+http://192.168.0.1:4022/rtp/239.253.240.19:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="IPTV山东频道（标清）",山东生活
+http://192.168.0.1:4022/rtp/239.253.240.20:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="IPTV山东频道（标清）",山东综艺
+http://192.168.0.1:4022/rtp/239.253.240.21:8000
+#EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="IPTV山东频道（标清）",山东国际
+http://192.168.0.1:4022/rtp/239.253.240.26:8000
