@@ -375,7 +375,7 @@ http://192.168.0.1:4022/rtp/239.253.240.228:8000
 #EXTINF:-1 tvg-name="动画频道" tvg-logo="" group-title="IPTV高清频道",动画频道
 http://192.168.0.1:4022/rtp/239.253.240.229:8000
 
-# 央视频道
+# 央视频道（标清）
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="IPTV央视频道（标清）",CCTV-1
 http://192.168.0.1:4022/rtp/239.253.240.1:8000
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="IPTV央视频道（标清）",CCTV-2
@@ -407,62 +407,62 @@ http://192.168.0.1:4022/rtp/239.253.240.15:8000
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="IPTV央视频道（标清）",CCTV-15
 http://192.168.0.1:4022/rtp/239.253.240.16:8000
 
-# 山东频道
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="IPTV央视频道（标清）",山东卫视
+# 山东频道（标清）
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="IPTV山东频道（标清）",山东卫视
 http://192.168.0.1:4022/rtp/239.253.240.2:8000
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="IPTV央视频道（标清）",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="IPTV山东频道（标清）",山东文旅
 http://192.168.0.1:4022/rtp/239.253.240.19:8000
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="IPTV央视频道（标清）",山东生活
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="IPTV山东频道（标清）",山东生活
 http://192.168.0.1:4022/rtp/239.253.240.20:8000
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="IPTV央视频道（标清）",山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="IPTV山东频道（标清）",山东综艺
 http://192.168.0.1:4022/rtp/239.253.240.21:8000
-#EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="IPTV央视频道（标清）",山东国际
+#EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="IPTV山东频道（标清）",山东国际
 http://192.168.0.1:4022/rtp/239.253.240.26:8000
 
-# 卫视频道
-#EXTINF:-1,湖南卫视
+# 卫视频道（标清）
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="IPTV卫视频道（标清）",湖南卫视
 http://192.168.0.1:4022/rtp/239.253.240.27:8000
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="IPTV卫视频道（标清）",江苏卫视
 http://192.168.0.1:4022/rtp/239.253.240.28:8000
-#EXTINF:-1,浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="IPTV卫视频道（标清）",浙江卫视
 http://192.168.0.1:4022/rtp/239.253.240.29:8000
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="IPTV卫视频道（标清）",安徽卫视
 http://192.168.0.1:4022/rtp/239.253.240.30:8000
-#EXTINF:-1,北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="IPTV卫视频道（标清）",北京卫视
 http://192.168.0.1:4022/rtp/239.253.240.31:8000
-#EXTINF:-1,东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="IPTV卫视频道（标清）",东方卫视
 http://192.168.0.1:4022/rtp/239.253.240.32:8000
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="IPTV卫视频道（标清）",深圳卫视
 http://192.168.0.1:4022/rtp/239.253.240.33:8000
-#EXTINF:-1,天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="IPTV卫视频道（标清）",天津卫视
 http://192.168.0.1:4022/rtp/239.253.240.34:8000
-#EXTINF:-1,海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="IPTV卫视频道（标清）",海南卫视
 http://192.168.0.1:4022/rtp/239.253.240.35:8000
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="IPTV卫视频道（标清）",辽宁卫视
 http://192.168.0.1:4022/rtp/239.253.240.36:8000
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="IPTV卫视频道（标清）",黑龙江卫视
 http://192.168.0.1:4022/rtp/239.253.240.37:8000
-#EXTINF:-1,广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="IPTV卫视频道（标清）",广东卫视
 http://192.168.0.1:4022/rtp/239.253.240.39:8000
-#EXTINF:-1,东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="IPTV卫视频道（标清）",东南卫视
 http://192.168.0.1:4022/rtp/239.253.240.41:8000
-#EXTINF:-1,河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="IPTV卫视频道（标清）",河北卫视
 http://192.168.0.1:4022/rtp/239.253.240.43:8000
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="IPTV卫视频道（标清）",河南卫视
 http://192.168.0.1:4022/rtp/239.253.240.44:8000
-#EXTINF:-1,湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="IPTV卫视频道（标清）",湖北卫视
 http://192.168.0.1:4022/rtp/239.253.240.45:8000
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="IPTV卫视频道（标清）",吉林卫视
 http://192.168.0.1:4022/rtp/239.253.240.46:8000
-#EXTINF:-1,山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="IPTV卫视频道（标清）",山西卫视
 http://192.168.0.1:4022/rtp/239.253.240.48:8000
-#EXTINF:-1,四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="IPTV卫视频道（标清）",四川卫视
 http://192.168.0.1:4022/rtp/239.253.240.50:8000
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="IPTV卫视频道（标清）",贵州卫视
 http://192.168.0.1:4022/rtp/239.253.240.51:8000
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="IPTV卫视频道（标清）",甘肃卫视
 http://192.168.0.1:4022/rtp/239.253.240.52:8000
-#EXTINF:-1,青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="IPTV卫视频道（标清）",青海卫视
 http://192.168.0.1:4022/rtp/239.253.240.54:8000
 
 #EXTINF:-1,频道预览（CCTV-1，山东卫视，CCTV-5，山东齐鲁，湖南卫视，浙江卫视，东方卫视，山东文旅，山东综艺）
