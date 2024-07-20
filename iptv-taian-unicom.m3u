@@ -46,7 +46,7 @@ http://192.168.0.1:4022/rtp/239.253.240.152:8000
 http://192.168.0.1:4022/rtp/239.253.240.153:8000
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="IPTV央视频道（高清）",CHC高清电影
 http://192.168.0.1:4022/rtp/239.253.240.154:8000
-#EXTINF:-1 tvg-name="GCTN" tvg-logo="https://live.fanmingming.com/tv/GCTN.png" group-title="IPTV央视频道（高清）",GCTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="IPTV央视频道（高清）",CGTN
 http://192.168.0.1:4022/rtp/239.253.240.189:8000
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="IPTV央视频道（高清）",CGTN 西语
 http://192.168.0.1:4022/rtp/239.253.240.182:8000
