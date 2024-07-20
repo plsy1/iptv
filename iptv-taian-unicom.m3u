@@ -202,185 +202,179 @@ http://192.168.0.1:4022/rtp/239.253.240.48:8000
 http://192.168.0.1:4022/rtp/239.253.240.49:8000
 
 #高清频道
-#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="高清频道",河南梨园频道
-http://192.168.0.1:4022/rtp/239.253.240.139:8000
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="高清频道",武术世界
-http://192.168.0.1:4022/rtp/239.253.240.140:8000
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="高清频道",文物宝库
-http://192.168.0.1:4022/rtp/239.253.240.141:8000
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="高清频道",精彩影视
-http://192.168.0.1:4022/rtp/239.253.240.142:8000
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="高清频道",湖南茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="IPTV高清频道",湖南茶频道
 http://192.168.0.1:4022/rtp/239.253.240.143:8000
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="高清频道",快乐垂钓
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="IPTV高清频道",江苏财富天下
+http://192.168.0.1:4022/rtp/239.253.240.230:8000
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="IPTV高清频道",河南梨园频道
+http://192.168.0.1:4022/rtp/239.253.240.139:8000
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="IPTV高清频道",武术世界
+http://192.168.0.1:4022/rtp/239.253.240.140:8000
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="IPTV高清频道",文物宝库
+http://192.168.0.1:4022/rtp/239.253.240.141:8000
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="IPTV高清频道",精彩影视
+http://192.168.0.1:4022/rtp/239.253.240.142:8000
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="IPTV高清频道",快乐垂钓
 http://192.168.0.1:4022/rtp/239.253.240.144:8000
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="高清频道",东方财经
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="IPTV高清频道",东方财经
 http://192.168.0.1:4022/rtp/239.253.240.94:8000
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="高清频道",游戏风云
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="IPTV高清频道",游戏风云
 http://192.168.0.1:4022/rtp/239.253.240.95:8000
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="" group-title="高清频道",法治天地
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="" group-title="IPTV高清频道",法治天地
 http://192.168.0.1:4022/rtp/239.253.240.96:8000
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="高清频道",乐游
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="IPTV高清频道",乐游
 http://192.168.0.1:4022/rtp/239.253.240.97:8000
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="高清频道",都市剧场
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="IPTV高清频道",都市剧场
 http://192.168.0.1:4022/rtp/239.253.240.98:8000
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="高清频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="IPTV高清频道",生活时尚
 http://192.168.0.1:4022/rtp/239.253.240.99:8000
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="高清频道",魅力足球
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="IPTV高清频道",魅力足球
 http://192.168.0.1:4022/rtp/239.253.240.100:8000
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="高清频道",金色学堂
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="IPTV高清频道",金色学堂
 http://192.168.0.1:4022/rtp/239.253.240.101:8000
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="高清频道",爱上4K
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="IPTV高清频道",爱上4K
 http://192.168.0.1:4022/rtp/239.253.240.102:8000
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="高清频道",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="IPTV高清频道",金鹰纪实
 http://192.168.0.1:4022/rtp/239.253.240.103:8000
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="高清频道",纪实人文
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="IPTV高清频道",纪实人文
 http://192.168.0.1:4022/rtp/239.253.240.120:8000
-#EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="高清频道",IPTV5+
+#EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="IPTV高清频道",IPTV5+
 http://192.168.0.1:4022/rtp/239.253.240.109:8000
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="高清频道",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="IPTV高清频道",动漫秀场
 http://192.168.0.1:4022/rtp/239.253.240.115:8000
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="高清频道",金鹰卡通
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="IPTV高清频道",金鹰卡通
 http://192.168.0.1:4022/rtp/239.253.240.117:8000
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="高清频道",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="IPTV高清频道",中国交通
 http://192.168.0.1:4022/rtp/239.253.240.177:8000
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="高清频道",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="IPTV高清频道",北京纪实科教
 http://192.168.0.1:4022/rtp/239.253.240.165:8000
 
-
-#EXTINF:-1,辽宁新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="IPTV高清频道",新动漫
 http://192.168.0.1:4022/rtp/239.253.240.157:8000
-#EXTINF:-1,上海动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="IPTV高清频道",上海动漫秀场
 http://192.168.0.1:4022/rtp/239.253.240.66:8000
-#EXTINF:-1,环球旅游
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="IPTV高清频道",环球旅游
 http://192.168.0.1:4022/rtp/239.253.240.71:8000
-#EXTINF:-1,优优宝贝
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="IPTV高清频道",优优宝贝
 http://192.168.0.1:4022/rtp/239.253.240.72:8000
-#EXTINF:-1,车迷频道
+#EXTINF:-1 tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="IPTV高清频道",车迷频道
 http://192.168.0.1:4022/rtp/239.253.240.73:8000
-#EXTINF:-1,生态环境
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="IPTV高清频道",生态环境
 http://192.168.0.1:4022/rtp/239.253.240.75:8000
-#EXTINF:-1,中华特产
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="IPTV高清频道",中华特产
 http://192.168.0.1:4022/rtp/239.253.240.76:8000
-#EXTINF:-1,CETV-1
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV-1.png" group-title="IPTV高清频道",CETV-1
 http://192.168.0.1:4022/rtp/239.253.240.55:8000
-#EXTINF:-1,CETV-4
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV-4.png" group-title="IPTV高清频道",CETV-4
 http://192.168.0.1:4022/rtp/239.253.240.108:8000
-#EXTINF:-1,四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="IPTV高清频道",四海钓鱼
 http://192.168.0.1:4022/rtp/239.253.240.118:8000
-#EXTINF:-1,IPTV 收视指南
+#EXTINF:-1 tvg-name="IPTV 收视指南" tvg-logo="" group-title="IPTV高清频道",IPTV 收视指南
 http://192.168.0.1:4022/rtp/239.253.240.124:8000
-#EXTINF:-1,IPTV 热播剧场
+#EXTINF:-1 tvg-name="IPTV 热播剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV热播剧场.png" group-title="IPTV高清频道",IPTV 热播剧场
 http://192.168.0.1:4022/rtp/239.253.240.125:8000
-#EXTINF:-1,IPTV 经典电影
+#EXTINF:-1 tvg-name="IPTV 经典电影" tvg-logo="https://live.fanmingming.com/tv/IPTV经典电影.png" group-title="IPTV高清频道",IPTV 经典电影
 http://192.168.0.1:4022/rtp/239.253.240.126:8000
-#EXTINF:-1,IPTV 少儿动画
+#EXTINF:-1 tvg-name="IPTV 少儿动画" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="IPTV高清频道",IPTV 少儿动画
 http://192.168.0.1:4022/rtp/239.253.240.127:8000
-#EXTINF:-1,IPTV 6+
+#EXTINF:-1 tvg-name="IPTV 6+" tvg-logo="https://live.fanmingming.com/tv/IPTV6+.png" group-title="IPTV高清频道",IPTV 6+
 http://192.168.0.1:4022/rtp/239.253.240.128:8000
-#EXTINF:-1,IPTV 3+
+#EXTINF:-1 tvg-name="IPTV 3+" tvg-logo="https://live.fanmingming.com/tv/IPTV3+.png" group-title="IPTV高清频道",IPTV 3+
 http://192.168.0.1:4022/rtp/239.253.240.129:8000
-#EXTINF:-1,IPTV 魅力时尚
+#EXTINF:-1 tvg-name="IPTV 魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="IPTV高清频道",IPTV 魅力时尚
 http://192.168.0.1:4022/rtp/239.253.240.130:8000
-#EXTINF:-1,IPTV 5+
+#EXTINF:-1 tvg-name="IPTV 5+" tvg-logo="https://live.fanmingming.com/tv/IPTV5+.png" group-title="IPTV高清频道",IPTV 5+
 http://192.168.0.1:4022/rtp/239.253.240.131:8000
-#EXTINF:-1,IPTV 6+
-http://192.168.0.1:4022/rtp/239.253.240.128:8000
-#EXTINF:-1,IPTV 8+
+#EXTINF:-1 tvg-name="IPTV 8+" tvg-logo="https://live.fanmingming.com/tv/IPTV8+.png" group-title="IPTV高清频道",IPTV 8+
 http://192.168.0.1:4022/rtp/239.253.240.132:8000
-#EXTINF:-1,IPTV 谍战剧场
+#EXTINF:-1 tvg-name="IPTV 谍战剧场" tvg-logo="" group-title="IPTV高清频道",IPTV 谍战剧场
 http://192.168.0.1:4022/rtp/239.253.240.135:8000
-#EXTINF:-1,IPTV 相声小品
+#EXTINF:-1 tvg-name="IPTV 相声小品" tvg-logo="https://live.fanmingming.com/tv/IPTV相声小品.png" group-title="IPTV高清频道",IPTV 相声小品
 http://192.168.0.1:4022/rtp/239.253.240.136:8000
-#EXTINF:-1,IPTV 野外
+#EXTINF:-1 tvg-name="IPTV 野外" tvg-logo="" group-title="IPTV高清频道",IPTV 野外
 http://192.168.0.1:4022/rtp/239.253.240.137:8000
-#EXTINF:-1,IPTV 法治
+#EXTINF:-1 tvg-name="IPTV 法治" tvg-logo="" group-title="IPTV高清频道",IPTV 法治
 http://192.168.0.1:4022/rtp/239.253.240.138:8000
-#EXTINF:-1,先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="IPTV高清频道",先锋乒羽
 http://192.168.0.1:4022/rtp/239.253.240.145:8000
-#EXTINF:-1,书画频道
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="IPTV高清频道",书画频道
 http://192.168.0.1:4022/rtp/239.253.240.146:8000
-#EXTINF:-1,财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="IPTV高清频道",财富天下
 http://192.168.0.1:4022/rtp/239.253.240.147:8000
-#EXTINF:-1,家庭理财
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="IPTV高清频道",家庭理财
 http://192.168.0.1:4022/rtp/239.253.240.148:8000
-#EXTINF:-1,新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="IPTV高清频道",新动漫
 http://192.168.0.1:4022/rtp/239.253.240.149:8000
-#EXTINF:-1,家有购物
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="IPTV高清频道",家有购物
 http://192.168.0.1:4022/rtp/239.253.240.150:8000
-#EXTINF:-1,先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="IPTV高清频道",先锋乒羽
 http://192.168.0.1:4022/rtp/239.253.240.155:8000
-#EXTINF:-1,汽摩频道
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="IPTV高清频道",汽摩
 http://192.168.0.1:4022/rtp/239.253.240.161:8000
-#EXTINF:-1,发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="IPTV高清频道",发现之旅
 http://192.168.0.1:4022/rtp/239.253.240.162:8000
-#EXTINF:-1,中学生
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="IPTV高清频道",中学生
 http://192.168.0.1:4022/rtp/239.253.240.163:8000
-#EXTINF:-1,老故事
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="IPTV高清频道",老故事
 http://192.168.0.1:4022/rtp/239.253.240.164:8000
-#EXTINF:-1,都市剧场
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="IPTV高清频道",都市剧场
 http://192.168.0.1:4022/rtp/239.253.240.178:8000
-#EXTINF:-1,城市剧场
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="" group-title="IPTV高清频道",城市剧场
 http://192.168.0.1:4022/rtp/239.253.240.201:8000
-#EXTINF:-1,音乐现场
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="" group-title="IPTV高清频道",音乐现场
 http://192.168.0.1:4022/rtp/239.253.240.202:8000
-#EXTINF:-1,军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场" group-title="IPTV高清频道",军旅剧场
 http://192.168.0.1:4022/rtp/239.253.240.203:8000
-#EXTINF:-1,足球频道
+#EXTINF:-1 tvg-name="足球频道" tvg-logo="" group-title="IPTV高清频道",足球频道
 http://192.168.0.1:4022/rtp/239.253.240.204:8000
-#EXTINF:-1,古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场" group-title="IPTV高清频道",古装剧场
 http://192.168.0.1:4022/rtp/239.253.240.205:8000
-#EXTINF:-1,军事频道
+#EXTINF:-1 tvg-name="军事频道" tvg-logo="" group-title="IPTV高清频道",军事频道
 http://192.168.0.1:4022/rtp/239.253.240.207:8000
-#EXTINF:-1,地理频道
+#EXTINF:-1 tvg-name="地理频道" tvg-logo="" group-title="IPTV高清频道",地理频道
 http://192.168.0.1:4022/rtp/239.253.240.208:8000
-#EXTINF:-1,红色影院
+#EXTINF:-1 tvg-name="红色影院" tvg-logo="" group-title="IPTV高清频道",红色影院
 http://192.168.0.1:4022/rtp/239.253.240.209:8000
-#EXTINF:-1,精选频道
+#EXTINF:-1 tvg-name="精选频道" tvg-logo="" group-title="IPTV高清频道",精选频道
 http://192.168.0.1:4022/rtp/239.253.240.210:8000
-#EXTINF:-1,经典剧场
+#EXTINF:-1 tvg-name="经典剧场" tvg-logo="" group-title="IPTV高清频道",经典剧场
 http://192.168.0.1:4022/rtp/239.253.240.211:8000
-#EXTINF:-1,武侠剧场
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="" group-title="IPTV高清频道",武侠剧场
 http://192.168.0.1:4022/rtp/239.253.240.212:8000
-#EXTINF:-1,美人频道
+#EXTINF:-1 tvg-name="美人频道" tvg-logo="" group-title="IPTV高清频道",美人频道
 http://192.168.0.1:4022/rtp/239.253.240.213:8000
-#EXTINF:-1,鉴赏频道
+#EXTINF:-1 tvg-name="鉴赏频道" tvg-logo="" group-title="IPTV高清频道",鉴赏频道
 http://192.168.0.1:4022/rtp/239.253.240.214:8000
-#EXTINF:-1,国学频道
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="" group-title="IPTV高清频道",国学频道
 http://192.168.0.1:4022/rtp/239.253.240.215:8000
-#EXTINF:-1,星影频道
+#EXTINF:-1 tvg-name="星影频道" tvg-logo="" group-title="IPTV高清频道",星影频道
 http://192.168.0.1:4022/rtp/239.253.240.216:8000
-#EXTINF:-1,早教频道
+#EXTINF:-1 tvg-name="早教频道" tvg-logo="" group-title="IPTV高清频道",早教频道
 http://192.168.0.1:4022/rtp/239.253.240.217:8000
-#EXTINF:-1,家庭影院
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="" group-title="IPTV高清频道",家庭影院
 http://192.168.0.1:4022/rtp/239.253.240.218:8000
-#EXTINF:-1,好学生
+#EXTINF:-1 tvg-name="好学生" tvg-logo="" group-title="IPTV高清频道",好学生
 http://192.168.0.1:4022/rtp/239.253.240.219:8000
-#EXTINF:-1,喜剧影院
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="" group-title="IPTV高清频道",喜剧影院
 http://192.168.0.1:4022/rtp/239.253.240.220:8000
-#EXTINF:-1,动作影院
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="" group-title="IPTV高清频道",动作影院
 http://192.168.0.1:4022/rtp/239.253.240.221:8000
-#EXTINF:-1,墨宝频道
+#EXTINF:-1 tvg-name="墨宝频道" tvg-logo="" group-title="IPTV高清频道",墨宝频道
 http://192.168.0.1:4022/rtp/239.253.240.222:8000
-#EXTINF:-1,光影频道
+#EXTINF:-1 tvg-name="光影频道" tvg-logo="" group-title="IPTV高清频道",光影频道
 http://192.168.0.1:4022/rtp/239.253.240.223:8000
-#EXTINF:-1,戏曲频道
+#EXTINF:-1 tvg-name="戏曲频道" tvg-logo="" group-title="IPTV高清频道",戏曲频道
 http://192.168.0.1:4022/rtp/239.253.240.224:8000
-#EXTINF:-1,爱生活频道
+#EXTINF:-1 tvg-name="爱生活频道" tvg-logo="" group-title="IPTV高清频道",爱生活频道
 http://192.168.0.1:4022/rtp/239.253.240.225:8000
-#EXTINF:-1,解密频道
+#EXTINF:-1 tvg-name="解密频道" tvg-logo="" group-title="IPTV高清频道",解密频道
 http://192.168.0.1:4022/rtp/239.253.240.226:8000
-#EXTINF:-1,武术频道
+#EXTINF:-1 tvg-name="武术频道" tvg-logo="" group-title="IPTV高清频道",武术频道
 http://192.168.0.1:4022/rtp/239.253.240.227:8000
-#EXTINF:-1,美妆频道
+#EXTINF:-1 tvg-name="美妆频道" tvg-logo="" group-title="IPTV高清频道",美妆频道
 http://192.168.0.1:4022/rtp/239.253.240.228:8000
-#EXTINF:-1,动画频道
+#EXTINF:-1 tvg-name="动画频道" tvg-logo="" group-title="IPTV高清频道",动画频道
 http://192.168.0.1:4022/rtp/239.253.240.229:8000
-#EXTINF:-1,财富天下
-http://192.168.0.1:4022/rtp/239.253.240.230:8000
-#EXTINF:-1,频道预览（CCTV-1，山东卫视，CCTV-5，山东齐鲁，湖南卫视，浙江卫视，东方卫视，山东文旅，山东综艺）
-http://192.168.0.1:4022/rtp/239.253.240.167:8000
-
 
 # 央视频道
 #EXTINF:-1,CCTV-1
@@ -471,4 +465,7 @@ http://192.168.0.1:4022/rtp/239.253.240.51:8000
 http://192.168.0.1:4022/rtp/239.253.240.52:8000
 #EXTINF:-1,青海卫视
 http://192.168.0.1:4022/rtp/239.253.240.54:8000
+
+#EXTINF:-1,频道预览（CCTV-1，山东卫视，CCTV-5，山东齐鲁，湖南卫视，浙江卫视，东方卫视，山东文旅，山东综艺）
+http://192.168.0.1:4022/rtp/239.253.240.167:8000
 
