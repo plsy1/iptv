@@ -162,7 +162,7 @@ http://192.168.0.1:4022/rtp/239.253.240.113:8000
 http://192.168.0.1:4022/rtp/239.253.240.179:8000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="IPTV卫视频道",四川卫视
 http://192.168.0.1:4022/rtp/239.253.240.180:8000
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/陕西农林卫视.png" group-title="IPTV卫视频道",陕西农林卫视
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="IPTV卫视频道",陕西农林卫视
 http://192.168.0.1:4022/rtp/239.253.240.70:8000
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="IPTV卫视频道",上海炫动卡通
 http://192.168.0.1:4022/rtp/239.253.240.63:8000
