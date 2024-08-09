@@ -60,35 +60,35 @@ http://192.168.0.1:4022/rtp/239.253.240.185:8000
 http://192.168.0.1:4022/rtp/239.253.240.188:8000
 
 # 卫视频道（高清）
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="山东频道（高清）",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道（高清）",山东卫视
 http://192.168.0.1:4022/rtp/239.253.240.78:8000
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="山东频道（高清）",山东齐鲁
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="卫视频道（高清）",山东齐鲁
 http://192.168.0.1:4022/rtp/239.253.240.114:8000
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="山东频道（高清）",山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="卫视频道（高清）",山东综艺
 http://192.168.0.1:4022/rtp/239.253.240.159:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="山东频道（高清）",山东体育
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="卫视频道（高清）",山东体育
 http://192.168.0.1:4022/rtp/239.253.240.81:8000
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="山东频道（高清）",山东新闻
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="卫视频道（高清）",山东新闻
 http://192.168.0.1:4022/rtp/239.253.240.23:8000
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="山东频道（高清）",山东农科
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="卫视频道（高清）",山东农科
 http://192.168.0.1:4022/rtp/239.253.240.24:8000
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="山东频道（高清）",山东少儿
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="卫视频道（高清）",山东少儿
 http://192.168.0.1:4022/rtp/239.253.240.25:8000
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="山东频道（高清）",山东生活
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="卫视频道（高清）",山东生活
 http://192.168.0.1:4022/rtp/239.253.240.151:8000
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="山东频道（高清）",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="卫视频道（高清）",山东文旅
 http://192.168.0.1:4022/rtp/239.253.240.160:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="山东频道（高清）",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="卫视频道（高清）",山东体育休闲
 http://192.168.0.1:4022/rtp/239.253.240.22:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="山东频道（高清）",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="卫视频道（高清）",山东体育休闲
 http://192.168.0.1:4022/rtp/239.253.240.158:8000
-#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="" group-title="山东频道（高清）",山东居家购物
+#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="" group-title="卫视频道（高清）",山东居家购物
 http://192.168.0.1:4022/rtp/239.253.240.104:8000
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="" group-title="山东频道（高清）",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="" group-title="卫视频道（高清）",山东教育卫视
 http://192.168.0.1:4022/rtp/239.253.240.59:8000
-#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="" group-title="山东频道（高清）",山东经济广播
+#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="" group-title="卫视频道（高清）",山东经济广播
 http://192.168.0.1:4022/rtp/239.253.240.166:8000
-#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="" group-title="山东频道（高清）",山东海洋频道
+#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="" group-title="卫视频道（高清）",山东海洋频道
 http://192.168.0.1:4022/rtp/239.253.240.67:8000
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道（高清）",河南卫视
 http://192.168.0.1:4022/rtp/239.253.240.190:8000
@@ -407,15 +407,15 @@ http://192.168.0.1:4022/rtp/239.253.240.15:8000
 http://192.168.0.1:4022/rtp/239.253.240.16:8000
 
 # 卫视频道（标清）
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="山东频道（标清）",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道（标清）",山东卫视
 http://192.168.0.1:4022/rtp/239.253.240.2:8000
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="山东频道（标清）",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="卫视频道（标清）",山东文旅
 http://192.168.0.1:4022/rtp/239.253.240.19:8000
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="山东频道（标清）",山东生活
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="卫视频道（标清）",山东生活
 http://192.168.0.1:4022/rtp/239.253.240.20:8000
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="山东频道（标清）",山东综艺
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="卫视频道（标清）",山东综艺
 http://192.168.0.1:4022/rtp/239.253.240.21:8000
-#EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="山东频道（标清）",山东国际
+#EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="卫视频道（标清）",山东国际
 http://192.168.0.1:4022/rtp/239.253.240.26:8000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道（标清）",湖南卫视
 http://192.168.0.1:4022/rtp/239.253.240.27:8000
