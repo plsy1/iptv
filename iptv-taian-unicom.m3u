@@ -59,7 +59,7 @@ http://192.168.0.1:4022/rtp/239.253.240.185:8000
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道（高清）",CGTN 纪录
 http://192.168.0.1:4022/rtp/239.253.240.188:8000
 
-# 山东频道（高清）
+# 卫视频道（高清）
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="山东频道（高清）",山东卫视
 http://192.168.0.1:4022/rtp/239.253.240.78:8000
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="山东频道（高清）",山东齐鲁
@@ -90,9 +90,6 @@ http://192.168.0.1:4022/rtp/239.253.240.59:8000
 http://192.168.0.1:4022/rtp/239.253.240.166:8000
 #EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="" group-title="山东频道（高清）",山东海洋频道
 http://192.168.0.1:4022/rtp/239.253.240.67:8000
-
-
-# 卫视频道（高清）
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道（高清）",河南卫视
 http://192.168.0.1:4022/rtp/239.253.240.190:8000
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道（高清）",青海卫视
@@ -179,7 +176,6 @@ http://192.168.0.1:4022/rtp/239.253.240.106:8000
 http://192.168.0.1:4022/rtp/239.253.240.48:8000
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道（高清）",陕西卫视
 http://192.168.0.1:4022/rtp/239.253.240.49:8000
-
 
 # 地方频道（高清）
 #EXTINF:-1 tvg-name="泰山TV" tvg-logo="" group-title="地方频道（高清）",泰山TV
@@ -410,7 +406,7 @@ http://192.168.0.1:4022/rtp/239.253.240.15:8000
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道（标清）",CCTV-15
 http://192.168.0.1:4022/rtp/239.253.240.16:8000
 
-# 山东频道（标清）
+# 卫视频道（标清）
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="山东频道（标清）",山东卫视
 http://192.168.0.1:4022/rtp/239.253.240.2:8000
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="山东频道（标清）",山东文旅
@@ -421,8 +417,6 @@ http://192.168.0.1:4022/rtp/239.253.240.20:8000
 http://192.168.0.1:4022/rtp/239.253.240.21:8000
 #EXTINF:-1 tvg-name="山东国际" tvg-logo="" group-title="山东频道（标清）",山东国际
 http://192.168.0.1:4022/rtp/239.253.240.26:8000
-
-# 卫视频道（标清）
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道（标清）",湖南卫视
 http://192.168.0.1:4022/rtp/239.253.240.27:8000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道（标清）",江苏卫视
