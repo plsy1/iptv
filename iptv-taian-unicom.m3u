@@ -36,10 +36,10 @@ http://192.168.0.1:4022/rtp/239.253.240.175:8000
 http://192.168.0.1:4022/rtp/239.253.240.236:8000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道（高清）",CCTV-15
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道（高清）",CCTV-17
-http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道（高清）",CCTV-4K
 http://192.168.0.1:4022/rtp/239.253.240.122:8000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道（高清）",CCTV-17
+http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道（高清）",CHC家庭影院
 http://192.168.0.1:4022/rtp/239.253.240.152:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道（高清）",CHC动作电影
