@@ -178,9 +178,9 @@ http://192.168.0.1:4022/rtp/239.253.240.48:8000
 http://192.168.0.1:4022/rtp/239.253.240.49:8000
 
 # 地方频道（高清）
-#EXTINF:-1 tvg-name="泰山TV" tvg-logo="" group-title="地方频道（高清）",泰山TV
+#EXTINF:-1 tvg-name="泰山TV" tvg-logo="" group-title="地方频道（高清）",泰山电视频道
 http://192.168.0.1:4022/rtp/239.253.240.244:8000
-#EXTINF:-1 tvg-name="岱岳TV" tvg-logo="" group-title="地方频道（高清）",岱岳TV
+#EXTINF:-1 tvg-name="岱岳TV" tvg-logo="" group-title="地方频道（高清）",岱岳电视频道
 http://192.168.0.1:4022/rtp/239.253.240.245:8000
 #EXTINF:-1 tvg-name="新泰乡村" tvg-logo="" group-title="地方频道（高清）",新泰乡村
 http://192.168.0.1:4022/rtp/239.253.240.246:8000
