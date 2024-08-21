@@ -465,3 +465,6 @@ http://192.168.0.1:4022/rtp/239.253.240.54:8000
 #EXTINF:-1,频道预览（CCTV-1，山东卫视，CCTV-5，山东齐鲁，湖南卫视，浙江卫视，东方卫视，山东文旅，山东综艺）
 http://192.168.0.1:4022/rtp/239.253.240.167:8000
 
+#EXTINF:-1 tvg-name="Amekaji航" group-title="哔哩哔哩直播",Amekaji航
+https://2d0b582c5b9357f7c6823e5d75cb142c.h2.smtcdns.net/d1--cn-gotcha204-4.bilivideo.com/live-bvc/904453/live_9195944_5558745/index.m3u8
+
