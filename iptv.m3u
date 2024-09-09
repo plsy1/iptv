@@ -38,6 +38,7 @@ http://192.168.0.1:4022/rtp/239.253.240.236:8000
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://coolcat.synology.me:4022/rtp/239.3.1.184:8001
+http://www.yoyotime.cn:2177/udp/239.49.8.31:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 
