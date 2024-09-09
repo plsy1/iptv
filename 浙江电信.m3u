@@ -1,0 +1,259 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://yourhost/iptv-logo/CCTV1.png" group-title="央视高清",CCTV1
+http://maitao.fjnt.com:9999/udp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://yourhost/iptv-logo/CCTV2.png" group-title="央视高清",CCTV2
+http://maitao.fjnt.com:9999/udp/233.50.201.119:5140
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://yourhost/iptv-logo/CCTV3.png" group-title="央视高清",CCTV3
+http://maitao.fjnt.com:9999/udp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://yourhost/iptv-logo/CCTV4.png" group-title="央视高清",CCTV4
+http://maitao.fjnt.com:9999/udp/233.50.201.4:5140
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://yourhost/iptv-logo/CCTV5.png" group-title="央视高清",CCTV5
+http://maitao.fjnt.com:9999/udp/233.50.201.197:5140
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://yourhost/iptv-logo/CCTV5+.png" group-title="央视高清",CCTV5+
+http://maitao.fjnt.com:9999/udp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://yourhost/iptv-logo/CCTV6.png" group-title="央视高清",CCTV6
+http://maitao.fjnt.com:9999/udp/233.50.201.198:5140
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://yourhost/iptv-logo/CCTV7.png" group-title="央视高清",CCTV7
+http://maitao.fjnt.com:9999/udp/233.50.201.120:5140
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://yourhost/iptv-logo/CCTV8.png" group-title="央视高清",CCTV8
+http://maitao.fjnt.com:9999/udp/233.50.201.199:5140
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://yourhost/iptv-logo/CCTV9.png" group-title="央视高清",CCTV9
+http://maitao.fjnt.com:9999/udp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://yourhost/iptv-logo/CCTV10.png" group-title="央视高清",CCTV10
+http://maitao.fjnt.com:9999/udp/233.50.201.122:5140
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://yourhost/iptv-logo/CCTV11.png" group-title="央视高清",CCTV11
+http://maitao.fjnt.com:9999/udp/233.50.201.11:5140
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://yourhost/iptv-logo/CCTV12.png" group-title="央视高清",CCTV12
+http://maitao.fjnt.com:9999/udp/233.50.201.123:5140
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://yourhost/iptv-logo/CCTV13.png" group-title="央视高清",CCTV13
+http://maitao.fjnt.com:9999/udp/233.50.201.246:5140
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://yourhost/iptv-logo/CCTV14.png" group-title="央视高清",CCTV14
+http://maitao.fjnt.com:9999/udp/233.50.201.124:5140
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://yourhost/iptv-logo/CCTV15.png" group-title="央视高清",CCTV15
+http://maitao.fjnt.com:9999/udp/233.50.201.15:5140
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4k" tvg-logo="http://yourhost/iptv-logo/CCTV16.png" group-title="央视高清",CCTV16 4k
+http://maitao.fjnt.com:9999/udp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://yourhost/iptv-logo/CCTV16.png" group-title="央视高清",CCTV16
+http://maitao.fjnt.com:9999/udp/233.50.201.192:5140
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://yourhost/iptv-logo/CCTV17.png" group-title="央视高清",CCTV17
+http://maitao.fjnt.com:9999/udp/233.50.201.35:5140
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://yourhost/iptv-logo/zhejiang.png" group-title="卫视高清",浙江卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.100:5140
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://yourhost/iptv-logo/shenzhen.png" group-title="卫视高清",深圳卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.101:5140
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://yourhost/iptv-logo/guangdong.png" group-title="卫视高清",广东卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.102:5140
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://yourhost/iptv-logo/hunan.png" group-title="卫视高清",湖南卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.103:5140
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://yourhost/iptv-logo/tianjin.png" group-title="卫视高清",	天津卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.104:5140
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://yourhost/iptv-logo/shandong.png" group-title="卫视高清",山东卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.105:5140
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://yourhost/iptv-logo/jiangsu.png" group-title="卫视高清",江苏卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.106:5140
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://yourhost/iptv-logo/beijing.png" group-title="卫视高清",北京卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.107:5140
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://yourhost/iptv-logo/sichuan.png" group-title="卫视高清",四川卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.139:5140
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://yourhost/iptv-logo/hebei.png" group-title="卫视高清",河北卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.140:5140
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://yourhost/iptv-logo/liaoning.png" group-title="卫视高清",辽宁卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.141:5140
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://yourhost/iptv-logo/guizhou.png" group-title="卫视高清",贵州卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.142:5140
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://yourhost/iptv-logo/chongqing.png" group-title="卫视高清",重庆卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.143:5140
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://yourhost/iptv-logo/henan.png" group-title="卫视高清",河南卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.144:5140
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://yourhost/iptv-logo/jiangxi.png" group-title="卫视高清",江西卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.145:5140
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://yourhost/iptv-logo/dongnan.png" group-title="卫视高清",东南卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.146:5140
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://yourhost/iptv-logo/anhui.png" group-title="卫视高清",安徽卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.113:5140
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://yourhost/iptv-logo/hubei.png" group-title="卫视高清",湖北卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.114:5140
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://yourhost/iptv-logo/heilongjiang.png" group-title="卫视高清",黑龙江卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.115:5140
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://yourhost/iptv-logo/dongfang.png" group-title="卫视高清",东方卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.125:5140
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://yourhost/iptv-logo/neimeng.png" group-title="卫视标清",内蒙古卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.148:5140
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://yourhost/iptv-logo/gansu.png" group-title="卫视标清",甘肃卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.149:5140
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://yourhost/iptv-logo/hainan.png" group-title="卫视标清",海南卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.55:5140
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://yourhost/iptv-logo/qinghai.png" group-title="卫视标清",青海卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.65:5140
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://yourhost/iptv-logo/xizang.png" group-title="卫视标清",西藏卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.70:5140
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://yourhost/iptv-logo/shanxi.png" group-title="卫视标清",陕西卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.59:5140
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://yourhost/iptv-logo/bingtuan.png" group-title="卫视标清",兵团卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.72:5140
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://yourhost/iptv-logo/shanxi_.png" group-title="卫视标清",山西卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.51:5140
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://yourhost/iptv-logo/ningxia.png" group-title="卫视标清",宁夏卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.57:5140
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://yourhost/iptv-logo/guangxi.png" group-title="卫视标清",广西卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.49:5140
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://yourhost/iptv-logo/yunnan.png" group-title="卫视标清",云南卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.46:5140
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://yourhost/iptv-logo/jilin.png" group-title="卫视标清",吉林卫视
+http://maitao.fjnt.com:9999/udp/233.50.201.48:5140
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://yourhost/iptv-logo/jinyingkatong.png" group-title="卫视标清",金鹰卡通
+http://maitao.fjnt.com:9999/udp/233.50.201.73:5140
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://yourhost/iptv-logo/xuandong.png" group-title="卫视标清",哈哈炫动
+http://maitao.fjnt.com:9999/udp/233.50.201.74:5140
+
+
+#EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视标清",中国教育一套
+http://maitao.fjnt.com:9999/udp/233.50.201.75:5140
+#EXTINF:-1 tvg-id="97" tvg-name="中国教育四套" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视标清",中国教育四套
+http://maitao.fjnt.com:9999/udp/233.50.201.172:5140
+
+#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
+http://maitao.fjnt.com:9999/udp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
+http://maitao.fjnt.com:9999/udp/233.50.200.192:5140
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://yourhost/iptv-logo/cgtn.png" group-title="国际标清",CGTN
+http://maitao.fjnt.com:9999/ud p/233.50.201.126:5140
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-西班牙语" tvg-logo="http://yourhost/iptv-logo/cgtn.png" group-title="国际标清",CGTN-西班牙语
+http://maitao.fjnt.com:9999/udp/233.50.201.36:5140
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-法语" tvg-logo="http://yourhost/iptv-logo/cgtn.png" group-title="国际标清",CGTN-法语
+http://maitao.fjnt.com:9999/udp/233.50.201.37:5140
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-阿拉伯语" tvg-logo="http://yourhost/iptv-logo/cgtn.png" group-title="国际标清",CGTN-阿拉伯语
+http://maitao.fjnt.com:9999/udp/233.50.201.38:5140
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN-俄语" tvg-logo="http://yourhost/iptv-logo/cgtn.png" group-title="国际标清",CGTN-俄语
+http://maitao.fjnt.com:9999/udp/233.50.201.39:5140
+
+
+#EXTINF:-1 tvg-id="38" tvg-name="钱江频道" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",钱江频道
+http://maitao.fjnt.com:9999/udp/233.50.201.132:5140
+#EXTINF:-1 tvg-id="39" tvg-name="浙江经济生活" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江经济生活
+http://maitao.fjnt.com:9999/udp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="40" tvg-name="浙江教育" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江教育
+http://maitao.fjnt.com:9999/udp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="41" tvg-name="浙江民生" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江民生
+http://maitao.fjnt.com:9999/udp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="42" tvg-name="浙江新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",浙江新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="43" tvg-name="浙江少儿" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",浙江少儿
+http://maitao.fjnt.com:9999/udp/233.50.201.138:5140
+#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
+http://maitao.fjnt.com:9999/udp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
+http://maitao.fjnt.com:9999/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州3生活
+http://maitao.fjnt.com:9999/udp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州4影视
+http://maitao.fjnt.com:9999/udp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
+http://maitao.fjnt.com:9999/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
+http://maitao.fjnt.com:9999/udp/233.50.201.182:5140
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV1
+http://maitao.fjnt.com:9999/udp/233.50.201.168:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV2
+http://maitao.fjnt.com:9999/udp/233.50.201.178:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV3
+http://maitao.fjnt.com:9999/udp/233.50.201.179:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV4
+http://maitao.fjnt.com:9999/udp/233.50.201.180:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV5
+http://maitao.fjnt.com:9999/udp/233.50.201.181:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="温州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",温州新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.87:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",衢州新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.155:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="绍兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",绍兴新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.156:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="台州-1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",台州-1
+http://maitao.fjnt.com:9999/udp/233.50.201.157:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="湖州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",湖州公共
+http://maitao.fjnt.com:9999/udp/233.50.201.158:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="金华新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",金华新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.161:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="丽水新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",丽水新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.162:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="嘉兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",嘉兴新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.163:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",桐乡新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.169:5140
+#EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",杭州导视
+http://maitao.fjnt.com:9999/udp/233.50.201.182:5140
+#EXTINF:-1 tvg-id="60" tvg-name="之江记录" tvg-logo="http://yourhost/iptv-logo/zjjl.png" group-title="地方",之江记录
+http://maitao.fjnt.com:9999/udp/233.50.202.25:5140
+#EXTINF:-1 tvg-id="49" tvg-name="某地新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地新闻综合
+http://maitao.fjnt.com:9999/udp/233.50.202.11:5140
+#EXTINF:-1 tvg-id="49" tvg-name="某地公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地公共
+http://maitao.fjnt.com:9999/udp/233.50.202.12:5140
+#EXTINF:-1 tvg-id="48" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
+http://maitao.fjnt.com:9999/udp/233.50.201.159:5140
+
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="数字付费",优优宝贝
+http://maitao.fjnt.com:9999/udp/233.50.202.24:5140
+#EXTINF:-1 tvg-id="91" tvg-name="新视觉HD" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",新视觉HD
+http://maitao.fjnt.com:9999/udp/233.50.201.244:5140
+#EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",欢笑剧场
+http://maitao.fjnt.com:9999/udp/233.50.201.189:5140
+#EXTINF:-1 tvg-id="57" tvg-name="都市剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",都市剧场
+http://maitao.fjnt.com:9999/udp/233.50.201.190:5140
+#EXTINF:-1 tvg-id="58" tvg-name="法制天地" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",法制天地
+http://maitao.fjnt.com:9999/udp/233.50.201.191:5140
+#EXTINF:-1 tvg-id="51" tvg-name="动漫秀场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",动漫秀场
+http://maitao.fjnt.com:9999/udp/233.50.201.184:5140
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/youxifengyun.png" group-title="数字付费",游戏风云
+http://maitao.fjnt.com:9999/udp/233.50.201.183:5140
+#EXTINF:-1 tvg-id="52" tvg-name="乐游" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",乐游
+http://maitao.fjnt.com:9999/udp/233.50.201.185:5140
+#EXTINF:-1 tvg-id="53" tvg-name="金色学堂" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",金色学堂
+http://maitao.fjnt.com:9999/udp/233.50.201.186:5140
+#EXTINF:-1 tvg-id="54" tvg-name="生活时尚" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",生活时尚
+http://maitao.fjnt.com:9999/udp/233.50.201.187:5140
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://yourhost/iptv-logo/chapindao.png" group-title="数字付费",茶频道
+http://maitao.fjnt.com:9999/udp/233.50.201.188:5140
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://yourhost/iptv-logo/kuailechuidiao.png" group-title="数字付费",快乐垂钓
+http://maitao.fjnt.com:9999/udp/233.50.201.109:5140
+#EXTINF:-1 tvg-id="95" tvg-name="好易购" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="电视购物",好易购
+http://maitao.fjnt.com:9999/udp/233.50.201.248:5140
+#EXTINF:-1 tvg-id="95" tvg-name="家有购物" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="电视购物",家有购物
+http://maitao.fjnt.com:9999/udp/233.50.201.90:5140
+
+#EXTINF:-1 tvg-id="64" tvg-name="BesTV" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="其他频道",BesTV
+http://maitao.fjnt.com:9999/udp/233.50.201.201:5140
+#EXTINF:-1 tvg-id="65" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏频道
+http://maitao.fjnt.com:9999/udp/233.50.201.207:5140
+#EXTINF:-1 tvg-id="67" tvg-name="游戏频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏频道
+http://maitao.fjnt.com:9999/udp/233.50.201.215:5140
+#EXTINF:-1 tvg-id="68" tvg-name="未知频道" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="高清剧场",未知频道
+http://maitao.fjnt.com:9999/udp/233.50.201.224:5140
+#EXTINF:-1 tvg-id="69" tvg-name="中国蓝直播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="高清剧场",中国蓝直播
+http://maitao.fjnt.com:9999/udp/233.50.201.108:5140
+
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩竞技" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩竞技
+http://maitao.fjnt.com:9999/udp/233.50.202.26:5140
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩篮球" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩篮球
+http://maitao.fjnt.com:9999/udp/233.50.202.27:5140
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩青少" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩青少
+http://maitao.fjnt.com:9999/udp/233.50.202.28:5140
+#EXTINF:-1 tvg-id="6605" tvg-name="晴彩广场舞" tvg-logo="http://www.c1pher.cn/iptv-logo/yybb.jpg" group-title="其他频道",晴彩广场舞
+http://maitao.fjnt.com:9999/udp/233.50.202.29:5140
+
+#EXTINF:-1 tvg-id="60" tvg-name="浙江之声广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",浙江之声广播
+http://maitao.fjnt.com:9999/udp/233.50.201.79:5140
+#EXTINF:-1 tvg-id="60" tvg-name="浙江新闻广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",浙江新闻广播
+http://maitao.fjnt.com:9999/udp/233.50.201.80:5140 
+#EXTINF:-1 tvg-id="60" tvg-name="经济频道广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",经济频道广播
+http://maitao.fjnt.com:9999/udp/233.50.201.81:5140  
+#EXTINF:-1 tvg-id="60" tvg-name="音乐调频广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",音乐调频广播
+http://maitao.fjnt.com:9999/udp/233.50.201.82:5140
+#EXTINF:-1 tvg-id="60" tvg-name="交通之声广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",交通之声广播
+http://maitao.fjnt.com:9999/udp/233.50.201.83:5140
+#EXTINF:-1 tvg-id="60" tvg-name="旅游之声广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",旅游之声广播
+http://maitao.fjnt.com:9999/udp/233.50.201.84:5140
+#EXTINF:-1 tvg-id="60" tvg-name="城市之声广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",城市之声广播
+http://maitao.fjnt.com:9999/udp/233.50.201.85:5140
+#EXTINF:-1 tvg-id="60" tvg-name="民生资讯广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",民生资讯广播
+http://maitao.fjnt.com:9999/udp/233.50.201.86:5140
