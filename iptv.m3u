@@ -37,38 +37,12 @@ http://192.168.0.1:4022/rtp/239.253.240.236:8000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://coolcat.synology.me:4022/rtp/239.3.1.184:8001
-http://www.yoyotime.cn:2177/udp/239.49.8.31:8000
+http://192.168.0.1:4022/rtp/239.253.240.122:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 
 http://192.168.0.1:4022/rtp/239.253.240.122:8000
-#EXTINF:-1 group-title="央视频道",CCTV卫生健康HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.165:5002
-#EXTINF:-1 group-title="央视频道",CCTV兵器科技HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.166:5002
-#EXTINF:-1 group-title="央视频道",CCTV电视指南HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.167:5002
-#EXTINF:-1 group-title="央视频道",CCTV风云足球HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.168:5002
-#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.169:5002
-#EXTINF:-1 group-title="央视频道",CCTV央视台球HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.170:5002
-#EXTINF:-1 group-title="央视频道",CCTV世界地理HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.171:5002
-#EXTINF:-1 group-title="央视频道",CCTV女性时尚HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.172:5002
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.173:5002
-#EXTINF:-1 group-title="央视频道",CCTV风云剧场HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.174:5002
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.175:5002
-#EXTINF:-1 group-title="央视频道",CCTV风云音乐HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.176:5002
-#EXTINF:-1 group-title="央视频道",CCTV央视文化精品HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.177:5002
+
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://192.168.0.1:4022/rtp/239.253.240.152:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
@@ -209,15 +183,15 @@ http://192.168.0.1:4022/rtp/239.253.240.48:8000
 http://192.168.0.1:4022/rtp/239.253.240.49:8000
 
 # 地方频道
-#EXTINF:-1 tvg-name="泰山TV" tvg-logo="" group-title="地方频道",泰山电视频道
+#EXTINF:-1 tvg-name="泰山电视频道" tvg-logo="" group-title="地方频道",泰山电视频道
 http://192.168.0.1:4022/rtp/239.253.240.244:8000
-#EXTINF:-1 tvg-name="岱岳TV" tvg-logo="" group-title="地方频道",岱岳电视频道
+#EXTINF:-1 tvg-name="岱岳电视频道" tvg-logo="" group-title="地方频道",岱岳电视频道
 http://192.168.0.1:4022/rtp/239.253.240.245:8000
 #EXTINF:-1 tvg-name="新泰乡村" tvg-logo="" group-title="地方频道",新泰乡村
 http://192.168.0.1:4022/rtp/239.253.240.246:8000
-#EXTINF:-1 tvg-name="NYTV-1" tvg-logo="" group-title="地方频道",宁阳TV-1
+#EXTINF:-1 tvg-name="宁阳TV-1" tvg-logo="" group-title="地方频道",宁阳TV-1
 http://192.168.0.1:4022/rtp/239.253.240.247:8000
-#EXTINF:-1 tvg-name="NYTV-2" tvg-logo="" group-title="地方频道",宁阳TV-2
+#EXTINF:-1 tvg-name="宁阳TV-2" tvg-logo="" group-title="地方频道",宁阳TV-2
 http://192.168.0.1:4022/rtp/239.253.240.248:8000
 #EXTINF:-1 tvg-name="东平综合" tvg-logo="" group-title="地方频道",东平综合
 http://192.168.0.1:4022/rtp/239.253.240.249:8000
@@ -232,66 +206,6 @@ http://192.168.0.1:4022/rtp/239.253.240.253:8000
 
 
 
-#其他频道
-#EXTINF:-1  group-title="其他频道",江苏卫视HD
-http://www.yoyotime.cn:2177/udp/239.49.8.16:9602
-#EXTINF:-1  group-title="其他频道",江苏城市HD
-http://www.yoyotime.cn:2177/udp/239.49.8.107:8000
-#EXTINF:-1  group-title="其他频道",江苏综艺HD
-http://www.yoyotime.cn:2177/udp/239.49.8.108:8000
-#EXTINF:-1  group-title="其他频道",江苏体育休闲HD
-http://www.yoyotime.cn:2177/udp/239.49.8.117:8000
-#EXTINF:-1  group-title="其他频道",江苏影视HD
-http://www.yoyotime.cn:2177/udp/239.49.8.118:8000
-#EXTINF:-1  group-title="其他频道",江苏新闻HD
-http://www.yoyotime.cn:2177/udp/239.49.8.120:8000
-#EXTINF:-1 group-title="其他频道",天津都市HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.128:5002
-#EXTINF:-1 group-title="其他频道",天津教育HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.129:5002
-#EXTINF:-1 group-title="其他频道",天津新闻HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.130:5002
-#EXTINF:-1 group-title="其他频道",天津文艺HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.131:5002
-#EXTINF:-1 group-title="其他频道",天津体育 HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.122:5002
-#EXTINF:-1 group-title="其他频道",天津影视HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.149:5002
-#EXTINF:-1 tvg-name="中国交通频道" group-title="其他频道",中国交通[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 group-title="其他频道",中国气象
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.119:5002
-#EXTINF:-1 group-title="其他频道",天视文旅
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.123:5002
-
-#EXTINF:-1 tvg-name="北京卫视" group-title="其他频道",BRTV北京卫视[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-name="BTV新闻" group-title="其他频道",BRTV新闻[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视" group-title="其他频道",BRTV影视[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺" group-title="其他频道",BRTV文艺[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经" group-title="其他频道",BRTV财经[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活" group-title="其他频道",BRTV生活[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.117:8000
-# #EXTINF:-1 tvg-name="BTV青年" group-title="其他频道",BRTV青年[高清]
-# http://coolcat.synology.me:4022/rtp/239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV科教" group-title="其他频道",BRTV纪实科教[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画" group-title="其他频道",BRTV卡酷少儿[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.189:8000
-# #EXTINF:-1 tvg-name="北京纪实" group-title="其他频道",BRTV冬奥纪实[高清]
-# http://coolcat.synology.me:4022/rtp/239.3.1.243:8000
-# #EXTINF:-1 tvg-name="北京纪实" group-title="其他频道",BRTV冬奥纪实[超清HDR]
-# http://coolcat.synology.me:4022/rtp/239.3.1.120:8000
-# #EXTINF:-1 tvg-name="北京纪实" group-title="其他频道",BRTV冬奥纪实[超清]
-# http://coolcat.synology.me:4022/rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-name="BTV体育" group-title="其他频道",BRTV体育休闲[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其他频道",BRTV国际频道[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.235:8000
 
 
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="其他频道",茶频道
@@ -467,152 +381,4 @@ http://192.168.0.1:4022/rtp/239.253.240.228:8000
 #EXTINF:-1 tvg-name="动画频道" tvg-logo="" group-title="其他频道",动画频道
 http://192.168.0.1:4022/rtp/239.253.240.229:8000
 
-
-#EXTINF:-1 tvg-id="38" tvg-name="钱江频道"  group-title="地方频道",钱江频道
-http://maitao.fjnt.com:9999/udp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="39" tvg-name="浙江经济生活"  group-title="地方频道",浙江经济生活
-http://maitao.fjnt.com:9999/udp/233.50.201.133:5140
-#EXTINF:-1 tvg-id="40" tvg-name="浙江教育"  group-title="地方频道",浙江教育
-http://maitao.fjnt.com:9999/udp/233.50.201.134:5140
-#EXTINF:-1 tvg-id="41" tvg-name="浙江民生"  group-title="地方频道",浙江民生
-http://maitao.fjnt.com:9999/udp/233.50.201.136:5140
-http://61.130.232.196:8881/udp/233.50.201.136:5140
-#EXTINF:-1 tvg-id="42" tvg-name="浙江新闻"  group-title="地方频道",浙江新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.137:5140
-#EXTINF:-1 tvg-id="43" tvg-name="浙江少儿"  group-title="地方频道",浙江少儿
-http://maitao.fjnt.com:9999/udp/233.50.201.138:5140
-#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合"  group-title="地方频道",杭州1综合
-http://maitao.fjnt.com:9999/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠"  group-title="地方频道",杭州2明珠
-http://maitao.fjnt.com:9999/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活"  group-title="地方频道",杭州3生活
-http://maitao.fjnt.com:9999/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视"  group-title="地方频道",杭州4影视
-http://maitao.fjnt.com:9999/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少"  group-title="地方频道",杭州5青少
-http://maitao.fjnt.com:9999/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="48" tvg-name="杭州导视"  group-title="地方频道",杭州导视
-http://maitao.fjnt.com:9999/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV1"  group-title="地方频道",宁波TV1
-http://maitao.fjnt.com:9999/udp/233.50.201.168:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV2"  group-title="地方频道",宁波TV2
-http://maitao.fjnt.com:9999/udp/233.50.201.178:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV3"  group-title="地方频道",宁波TV3
-http://maitao.fjnt.com:9999/udp/233.50.201.179:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV4"  group-title="地方频道",宁波TV4
-http://maitao.fjnt.com:9999/udp/233.50.201.180:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV5"  group-title="地方频道",宁波TV5
-http://maitao.fjnt.com:9999/udp/233.50.201.181:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="温州新闻"  group-title="地方频道",温州新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.87:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻"  group-title="地方频道",衢州新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.155:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="绍兴新闻"  group-title="地方频道",绍兴新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.156:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="台州-1"  group-title="地方频道",台州-1
-http://maitao.fjnt.com:9999/udp/233.50.201.157:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="湖州公共"  group-title="地方频道",湖州公共
-http://maitao.fjnt.com:9999/udp/233.50.201.158:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="金华新闻"  group-title="地方频道",金华新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.161:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="丽水新闻"  group-title="地方频道",丽水新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.162:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="嘉兴新闻"  group-title="地方频道",嘉兴新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.163:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="桐乡新闻"  group-title="地方频道",桐乡新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.169:5140
-#EXTINF:-1 tvg-id="49" tvg-name="杭州导视"  group-title="地方频道",杭州导视
-http://maitao.fjnt.com:9999/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="60" tvg-name="之江记录"  group-title="地方频道",之江记录
-http://maitao.fjnt.com:9999/udp/233.50.202.25:5140
-#EXTINF:-1 tvg-id="49" tvg-name="某地新闻综合"  group-title="地方频道",某地新闻综合
-http://maitao.fjnt.com:9999/udp/233.50.202.11:5140
-#EXTINF:-1 tvg-id="49" tvg-name="某地公共"  group-title="地方频道",某地公共
-http://maitao.fjnt.com:9999/udp/233.50.202.12:5140
-#EXTINF:-1 tvg-id="48" tvg-name="余杭新闻"  group-title="地方频道",余杭新闻
-http://maitao.fjnt.com:9999/udp/233.50.201.159:5140
-
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="地方频道",朝阳融媒[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.163:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="地方频道",通州融媒[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="地方频道",密云电视台[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="地方频道",房山电视台[高清]
-http://coolcat.synology.me:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="地方频道",延庆电视台
-http://coolcat.synology.me:4022/rtp/239.3.1.187:8001
-
-#EXTINF:-1 group-title="地方频道",蓟州HD
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.82:5002
-#EXTINF:-1 group-title="地方频道",宝坻
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.83:5002
-#EXTINF:-1 group-title="地方频道",河东频道
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.2:5002
-#EXTINF:-1 group-title="地方频道",河西频道
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.4:5002
-#EXTINF:-1 group-title="地方频道",滨海1
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.7:5002
-#EXTINF:-1 group-title="地方频道",滨海2
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.8:5002
-#EXTINF:-1 group-title="地方频道",大港油田企业频道
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.14:5002
-#EXTINF:-1 group-title="地方频道",华彩天津
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.245:5002
-#EXTINF:-1 group-title="地方频道",华彩天津
-http://wow.lkzflzylzx.top:4022/rtp/225.1.2.206:5002
-
-
-#EXTINF:-1 group-title="台湾频道",民视第一台
-http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",民视台湾台
-http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",民视
-http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",中视新闻
-http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",华视新闻
-http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",东森新闻
-http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",东森新闻
-http://shuma004.chunfengyun.top:8080/live/61/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",镜新闻
-http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",寰宇新闻
-http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",全球财经
-http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",寰宇财经
-http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",国会频道1
-http://shuma004.chunfengyun.top:8080/live/103/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",国会频道2
-http://shuma004.chunfengyun.top:8080/live/104/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS欢乐台
-http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
-
-
-#EXTINF:-1,天津广播-1
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.94:5002
-#EXTINF:-1,天津广播-2
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.171:5002
-#EXTINF:-1,天津广播-3
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.172:5002
-#EXTINF:-1,天津广播-4
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.173:5002
-#EXTINF:-1,天津广播-5
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.174:5002
-#EXTINF:-1,天津广播-6
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.175:5002
-#EXTINF:-1,天津广播-7
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.176:5002
-#EXTINF:-1,天津广播-8
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.177:5002
-#EXTINF:-1,天津广播-9
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.178:5002
-#EXTINF:-1,天津广播-10
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.179:5002
-#EXTINF:-1,天津广播-11
-http://wow.lkzflzylzx.top:4022/rtp/225.1.1.180:5002
 
