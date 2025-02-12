@@ -8,9 +8,9 @@ http://192.168.0.1:4022/rtp/239.253.240.232:8000
 http://192.168.0.1:4022/rtp/239.253.240.191:8000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://192.168.0.1:4022/rtp/239.253.240.111:8000
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
+#EXTINF:-1 tvg-name="CCTV4EUO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 欧洲
 http://192.168.0.1:4022/rtp/239.253.240.186:8000
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
+#EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 美洲
 http://192.168.0.1:4022/rtp/239.253.240.187:8000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://192.168.0.1:4022/rtp/239.253.240.192:8000
@@ -43,7 +43,7 @@ http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 
 http://192.168.0.1:4022/rtp/239.253.240.122:8000
 
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭电影
 http://192.168.0.1:4022/rtp/239.253.240.152:8000
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://192.168.0.1:4022/rtp/239.253.240.153:8000
@@ -136,7 +136,7 @@ http://192.168.0.1:4022/rtp/239.253.240.105:8000
 http://192.168.0.1:4022/rtp/239.253.240.112:8000
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://192.168.0.1:4022/rtp/239.253.240.113:8000
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://192.168.0.1:4022/rtp/239.253.240.179:8000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://192.168.0.1:4022/rtp/239.253.240.180:8000
@@ -148,13 +148,13 @@ http://192.168.0.1:4022/rtp/239.253.240.63:8000
 http://192.168.0.1:4022/rtp/239.253.240.64:8000
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/嘉佳卡通.png" group-title="卫视频道",广东嘉佳卡通
 http://192.168.0.1:4022/rtp/239.253.240.65:8000
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV1.png" group-title="卫视频道",CETV-1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://192.168.0.1:4022/rtp/239.253.240.110:8000
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://192.168.0.1:4022/rtp/239.253.240.116:8000
 
 #卫视频道（仅标清）
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://192.168.0.1:4022/rtp/239.253.240.107:8000
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://192.168.0.1:4022/rtp/239.253.240.121:8000
@@ -205,11 +205,11 @@ http://192.168.0.1:4022/rtp/239.253.240.253:8000
 
 
 
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/茶.png" group-title="其他频道",茶频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/茶.png" group-title="其他频道",茶频道
 http://192.168.0.1:4022/rtp/239.253.240.143:8000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/金鹰纪实.png" group-title="其他频道",金鹰纪实
 http://192.168.0.1:4022/rtp/239.253.240.103:8000
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/湖南金鹰卡通.png" group-title="其他频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/湖南金鹰卡通.png" group-title="其他频道",金鹰卡通
 http://192.168.0.1:4022/rtp/239.253.240.117:8000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/快乐垂钓.png" group-title="其他频道",快乐垂钓
 http://192.168.0.1:4022/rtp/239.253.240.144:8000
@@ -263,29 +263,29 @@ http://192.168.0.1:4022/rtp/239.253.240.73:8000
 http://192.168.0.1:4022/rtp/239.253.240.75:8000
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/中华特产.png" group-title="其他频道",中华特产
 http://192.168.0.1:4022/rtp/239.253.240.76:8000
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV1.png" group-title="其他频道",CETV-1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV1.png" group-title="其他频道",CETV-1
 http://192.168.0.1:4022/rtp/239.253.240.55:8000
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV4.png" group-title="其他频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CETV4.png" group-title="其他频道",CETV-4
 http://192.168.0.1:4022/rtp/239.253.240.108:8000
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/四海钓鱼.png" group-title="其他频道",四海钓鱼
 http://192.168.0.1:4022/rtp/239.253.240.118:8000
-#EXTINF:-1 tvg-name="IPTV 热播剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV热播剧场.png" group-title="其他频道",IPTV 热播剧场
+#EXTINF:-1 tvg-name="IPTV热播剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV热播剧场.png" group-title="其他频道",IPTV 热播剧场
 http://192.168.0.1:4022/rtp/239.253.240.125:8000
-#EXTINF:-1 tvg-name="IPTV 经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV经典电影.png" group-title="其他频道",IPTV 经典电影
+#EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV经典电影.png" group-title="其他频道",IPTV 经典电影
 http://192.168.0.1:4022/rtp/239.253.240.126:8000
-#EXTINF:-1 tvg-name="IPTV 少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV少儿动画.png" group-title="其他频道",IPTV 少儿动画
+#EXTINF:-1 tvg-name="IPTV少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV少儿动画.png" group-title="其他频道",IPTV 少儿动画
 http://192.168.0.1:4022/rtp/239.253.240.127:8000
-#EXTINF:-1 tvg-name="IPTV 6+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV6+.png" group-title="其他频道",IPTV 6+
+#EXTINF:-1 tvg-name="IPTV6+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV6+.png" group-title="其他频道",IPTV 6+
 http://192.168.0.1:4022/rtp/239.253.240.128:8000
-#EXTINF:-1 tvg-name="IPTV 3+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV3+.png" group-title="其他频道",IPTV 3+
+#EXTINF:-1 tvg-name="IPTV3+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV3+.png" group-title="其他频道",IPTV 3+
 http://192.168.0.1:4022/rtp/239.253.240.129:8000
-#EXTINF:-1 tvg-name="IPTV 魅力时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV魅力时尚.png" group-title="其他频道",IPTV 魅力时尚
+#EXTINF:-1 tvg-name="IPTV魅力时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV魅力时尚.png" group-title="其他频道",IPTV 魅力时尚
 http://192.168.0.1:4022/rtp/239.253.240.130:8000
-#EXTINF:-1 tvg-name="IPTV 5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV5+.png" group-title="其他频道",IPTV 5+
+#EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV5+.png" group-title="其他频道",IPTV 5+
 http://192.168.0.1:4022/rtp/239.253.240.131:8000
-#EXTINF:-1 tvg-name="IPTV 8+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV8+.png" group-title="其他频道",IPTV 8+
+#EXTINF:-1 tvg-name="IPTV8+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV8+.png" group-title="其他频道",IPTV 8+
 http://192.168.0.1:4022/rtp/239.253.240.132:8000
-#EXTINF:-1 tvg-name="IPTV 相声小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV相声小品.png" group-title="其他频道",IPTV 相声小品
+#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/IPTV相声小品.png" group-title="其他频道",IPTV 相声小品
 http://192.168.0.1:4022/rtp/239.253.240.136:8000
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/书画.png" group-title="其他频道",书画频道
 http://192.168.0.1:4022/rtp/239.253.240.146:8000
@@ -319,17 +319,17 @@ http://192.168.0.1:4022/rtp/239.253.240.204:8000
 http://192.168.0.1:4022/rtp/239.253.240.201:8000
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="" group-title="其他频道",音乐现场
 http://192.168.0.1:4022/rtp/239.253.240.202:8000
-#EXTINF:-1 tvg-name="IPTV 谍战剧场" tvg-logo="" group-title="其他频道",IPTV 谍战剧场
+#EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="" group-title="其他频道",IPTV 谍战剧场
 http://192.168.0.1:4022/rtp/239.253.240.135:8000
-#EXTINF:-1 tvg-name="IPTV 收视指南" tvg-logo="" group-title="其他频道",IPTV 收视指南
+#EXTINF:-1 tvg-name="IPTV收视指南" tvg-logo="" group-title="其他频道",IPTV 收视指南
 http://192.168.0.1:4022/rtp/239.253.240.124:8000
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="其他频道",精彩影视
 http://192.168.0.1:4022/rtp/239.253.240.142:8000
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="" group-title="其他频道",法治天地
 http://192.168.0.1:4022/rtp/239.253.240.96:8000
-#EXTINF:-1 tvg-name="IPTV 野外" tvg-logo="" group-title="其他频道",IPTV 野外
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="" group-title="其他频道",IPTV 野外
 http://192.168.0.1:4022/rtp/239.253.240.137:8000
-#EXTINF:-1 tvg-name="IPTV 法治" tvg-logo="" group-title="其他频道",IPTV 法治
+#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="" group-title="其他频道",IPTV 法治
 http://192.168.0.1:4022/rtp/239.253.240.138:8000
 #EXTINF:-1 tvg-name="军事频道" tvg-logo="" group-title="其他频道",军事频道
 http://192.168.0.1:4022/rtp/239.253.240.207:8000
