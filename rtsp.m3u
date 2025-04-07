@@ -1,0 +1,68 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-1
+http://192.168.0.1:4022/rtp/239.253.240.77:8000
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-2
+http://192.168.0.1:4022/rtp/239.253.240.232:8000
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814361050007455.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-4
+http://192.168.0.1:4022/rtp/239.253.240.111:8000
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-7
+http://192.168.0.1:4022/rtp/239.253.240.233:8000
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-9
+http://192.168.0.1:4022/rtp/239.253.240.79:8000
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-10
+http://192.168.0.1:4022/rtp/239.253.240.234:8000
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-11
+http://192.168.0.1:4022/rtp/239.253.240.169:8000
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015571407754299.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-12
+http://192.168.0.1:4022/rtp/239.253.240.235:8000
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-13
+http://192.168.0.1:4022/rtp/239.253.240.175:8000
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-14
+http://192.168.0.1:4022/rtp/239.253.240.236:8000
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV-15
+http://192.168.0.1:4022/rtp/239.253.240.170:8000
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/SD.png" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视
+http://192.168.0.1:4022/rtp/239.253.240.78:8000
+
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Qilu.png" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 齐鲁台
+http://192.168.0.1:4022/rtp/239.253.240.114:8000
+
+#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/SDZY.png" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东综艺
+http://192.168.0.1:4022/rtp/239.253.240.159:8000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/SDXW.png" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东新闻
+http://192.168.0.1:4022/rtp/239.253.240.23:8000
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Hunan.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
+http://192.168.0.1:4022/rtp/239.253.240.82:8000
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Zhejiang.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 浙江卫视
+http://192.168.0.1:4022/rtp/239.253.240.84:8000
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/DFWS.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视
+http://192.168.0.1:4022/rtp/239.253.240.86:8000
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Jiangsu.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视
+http://192.168.0.1:4022/rtp/239.253.240.83:8000
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Beijing.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
+http://192.168.0.1:4022/rtp/239.253.240.85:8000
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Anhui.png" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视
+http://192.168.0.1:4022/rtp/239.253.240.87:8000
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/Gansu.png" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 甘肃卫视
+http://192.168.0.1:4022/rtp/239.253.240.74:8000
