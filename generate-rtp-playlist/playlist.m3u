@@ -71,8 +71,6 @@ http://192.168.0.1:4022/rtp/239.253.240.83:8000
 http://192.168.0.1:4022/rtp/239.253.240.85:8000
 #EXTINF:-1 tvg-id="36" tvg-name="安徽卫视高清" group-title="其他", 安徽卫视高清
 http://192.168.0.1:4022/rtp/239.253.240.87:8000
-#EXTINF:-1 tvg-id="37" tvg-name="天津卫视高清" group-title="其他", 天津卫视高清
-http://192.168.0.1:4022/rtp/239.253.240.89:8000
 #EXTINF:-1 tvg-id="38" tvg-name="辽宁卫视高清" group-title="其他", 辽宁卫视高清
 http://192.168.0.1:4022/rtp/239.253.240.92:8000
 #EXTINF:-1 tvg-id="39" tvg-name="深圳卫视高清" group-title="其他", 深圳卫视高清
@@ -121,8 +119,8 @@ http://192.168.0.1:4022/rtp/239.253.240.74:8000
 http://192.168.0.1:4022/rtp/239.253.240.195:8000
 #EXTINF:-1 tvg-id="61" tvg-name="西藏卫视" group-title="其他", 西藏卫视
 http://192.168.0.1:4022/rtp/239.253.240.56:8000
-#EXTINF:-1 tvg-id="62" tvg-name="金鹰卡通高清" group-title="其他", 金鹰卡通高清
-http://192.168.0.1:4022/rtp/239.253.240.117:8000
+#EXTINF:-1 tvg-id="62" tvg-name="生态环境" group-title="其他", 生态环境
+http://192.168.0.1:4022/rtp/239.253.240.119:8000
 #EXTINF:-1 tvg-id="63" tvg-name="KAKU少儿" group-title="其他", KAKU少儿
 http://192.168.0.1:4022/rtp/239.253.240.66:8000
 #EXTINF:-1 tvg-id="64" tvg-name="优漫卡通" group-title="其他", 优漫卡通
@@ -153,12 +151,8 @@ http://192.168.0.1:4022/rtp/239.253.240.109:8000
 http://192.168.0.1:4022/rtp/239.253.240.102:8000
 #EXTINF:-1 tvg-id="78" tvg-name="谍战剧场" group-title="其他", 谍战剧场
 http://192.168.0.1:4022/rtp/239.253.240.135:8000
-#EXTINF:-1 tvg-id="80" tvg-name="都市剧场" group-title="其他", 都市剧场
-http://192.168.0.1:4022/rtp/239.253.240.178:8000
 #EXTINF:-1 tvg-id="81" tvg-name="三沙卫视" group-title="其他", 三沙卫视
 http://192.168.0.1:4022/rtp/239.253.240.171:8000
-#EXTINF:-1 tvg-id="82" tvg-name="纪实人文高清" group-title="其他", 纪实人文高清
-http://192.168.0.1:4022/rtp/239.253.240.120:8000
 #EXTINF:-1 tvg-id="83" tvg-name="中国交通" group-title="其他", 中国交通
 http://192.168.0.1:4022/rtp/239.253.240.177:8000
 #EXTINF:-1 tvg-id="84" tvg-name="发现之旅" group-title="其他", 发现之旅
@@ -329,22 +323,30 @@ http://192.168.0.1:4022/rtp/239.253.240.71:8000
 http://192.168.0.1:4022/rtp/239.253.240.72:8000
 #EXTINF:-1 tvg-id="186" tvg-name="车迷标清" group-title="其他", 车迷标清
 http://192.168.0.1:4022/rtp/239.253.240.73:8000
-#EXTINF:-1 tvg-id="187" tvg-name="生态环境标清" group-title="其他", 生态环境标清
-http://192.168.0.1:4022/rtp/239.253.240.75:8000
+#EXTINF:-1 tvg-id="187" tvg-name="金鹰卡通高清" group-title="其他", 金鹰卡通高清
+http://192.168.0.1:4022/rtp/239.253.240.117:8000
 #EXTINF:-1 tvg-id="188" tvg-name="中华特产标清" group-title="其他", 中华特产标清
 http://192.168.0.1:4022/rtp/239.253.240.76:8000
 #EXTINF:-1 tvg-id="189" tvg-name="北京纪实科教" group-title="其他", 北京纪实科教
 http://192.168.0.1:4022/rtp/239.253.240.165:8000
+#EXTINF:-1 tvg-id="190" tvg-name="北京卫视4K超高清" group-title="其他", 北京卫视4K超高清
+http://192.168.0.1:4022/rtp/239.253.240.200:8000
+#EXTINF:-1 tvg-id="200" tvg-name="金鹰卡通标清" group-title="其他", 金鹰卡通标清
+http://192.168.0.1:4022/rtp/239.253.240.134:8000
 #EXTINF:-1 tvg-id="282" tvg-name="泰安经济生活" group-title="其他", 泰安经济生活
 http://192.168.0.1:4022/rtp/239.253.240.253:8000
 #EXTINF:-1 tvg-id="483" tvg-name="新泰综合" group-title="其他", 新泰综合
 http://192.168.0.1:4022/rtp/239.253.240.250:8000
-#EXTINF:-1 tvg-id="484" tvg-name="新泰乡村" group-title="其他", 新泰乡村
-http://192.168.0.1:4022/rtp/239.253.240.246:8000
 #EXTINF:-1 tvg-id="489" tvg-name="泰山电视频道" group-title="其他", 泰山电视频道
 http://192.168.0.1:4022/rtp/239.253.240.244:8000
+#EXTINF:-1 tvg-id="484" tvg-name="新泰乡村" group-title="其他", 新泰乡村
+http://192.168.0.1:4022/rtp/239.253.240.246:8000
 #EXTINF:-1 tvg-id="999" tvg-name="海看演艺" group-title="其他", 海看演艺
 http://192.168.0.1:4022/rtp/239.253.240.158:8000
+#EXTINF:-1 tvg-id="886" tvg-name="聚鲨环球" group-title="其他", 聚鲨环球
+http://192.168.0.1:4022/rtp/239.253.240.156:8000
+#EXTINF:-1 tvg-id="887" tvg-name="优购物" group-title="其他", 优购物
+http://192.168.0.1:4022/rtp/239.253.240.174:8000
 #EXTINF:-1 tvg-id="888" tvg-name="家有购物" group-title="其他", 家有购物
 http://192.168.0.1:4022/rtp/239.253.240.150:8000
 #EXTINF:-1 tvg-id="889" tvg-name="汽摩频道" group-title="其他", 汽摩频道
