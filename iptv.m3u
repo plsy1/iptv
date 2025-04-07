@@ -36,8 +36,6 @@ http://192.168.0.1:4022/rtp/239.253.240.175:8000
 http://192.168.0.1:4022/rtp/239.253.240.236:8000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://192.168.0.1:4022/rtp/239.253.240.170:8000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://192.168.0.1:4022/rtp/239.253.240.122:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://192.168.0.1:4022/rtp/239.253.240.168:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 
@@ -81,9 +79,8 @@ http://192.168.0.1:4022/rtp/239.253.240.25:8000
 http://192.168.0.1:4022/rtp/239.253.240.151:8000
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东文旅.png" group-title="卫视频道",山东文旅
 http://192.168.0.1:4022/rtp/239.253.240.160:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东体育.png" group-title="卫视频道",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东体育.png" group-title="卫视频道",山东体育
 http://192.168.0.1:4022/rtp/239.253.240.22:8000
-http://192.168.0.1:4022/rtp/239.253.240.158:8000
 #EXTINF:-1 tvg-name="山东居家购物" tvg-logo="" group-title="卫视频道",山东居家购物
 http://192.168.0.1:4022/rtp/239.253.240.104:8000
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="" group-title="卫视频道",山东教育卫视
