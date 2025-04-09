@@ -42,4 +42,4 @@ def create_m3u(input_filename, output_filename):
         print(f'发生错误: {e}')
         
         
-create_m3u('iptv.json', 'playlist.m3u')
+create_m3u('iptv.json', 'multicast.m3u')

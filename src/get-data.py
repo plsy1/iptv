@@ -1,10 +1,8 @@
 import requests
-import warnings
 import re
 import json
-from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
-from cryptography.hazmat.backends import default_backend
-from cryptography.hazmat.primitives import padding
+from Crypto.Cipher import DES
+from Crypto.Util.Padding import pad
 import random
 import binascii
 
@@ -23,7 +21,6 @@ encryptKey = ""
 
 
 
-warnings.filterwarnings("ignore")
 
 
 def Entrance():
@@ -32,7 +29,7 @@ def Entrance():
     if response.status_code == 200:
         return
     else:
-        print(f"Step1: 请求失败，状态码：{response.status_code}")
+        print(f"Entrance: 请求失败，状态码：{response.status_code}")
 
 
 def getEncryptToken():
@@ -59,9 +56,9 @@ def getEncryptToken():
             encryptToken = match.group(1)
             return encryptToken
         else:
-            print("未找到 GetAuthInfo 函数中的值, 请检查网络连接")
+            print("getEncryptToken: 未找到 GetAuthInfo 函数中的值, 请检查网络连接")
     else:
-        print(f"Step2: 请求失败，状态码：{response.status_code}")
+        print(f"getEncryptToken: 请求失败，状态码：{response.status_code}")
 
 
 def generateAuthenticator():
@@ -81,11 +78,11 @@ def generateAuthenticator():
             + "$"
             + CustomStr
         )
-        res = Union3DesEncrypt(strEncry2, encryptKey)
+        res = UnionDesEncrypt(strEncry2, encryptKey)
         return res
 
     except Exception as e:
-        print(f"Step3: {e}")
+        print(f"generateAuthenticator: {e}")
 
 
 def auth(Authenticator):
@@ -115,7 +112,7 @@ def auth(Authenticator):
             if match:
                 user_token = match.group(1)
     else:
-        print("Step4: 鉴权链接获取失败.")
+        print("auth: 鉴权链接获取失败.")
 
     return jsessionid, user_token
 
@@ -181,29 +178,24 @@ def processRawInformation():
         
         
 
-def Union3DesEncrypt(strMsg, strKey):
+def UnionDesEncrypt(strMsg, strKey):
     try:
-        keyappend = 24 - len(strKey)
+        keyappend = 8 - len(strKey)
         if keyappend > 0:
             strKey = strKey + "0" * keyappend
 
         key_bytes = strKey.encode("utf-8")
-
         msg_bytes = strMsg.encode("utf-8")
 
-        padder = padding.PKCS7(algorithms.TripleDES.block_size).padder()
-        padded_msg = padder.update(msg_bytes) + padder.finalize()
+        padded_msg = pad(msg_bytes, DES.block_size)
 
-        cipher = Cipher(
-            algorithms.TripleDES(key_bytes), modes.ECB(), backend=default_backend()
-        )
-        encryptor = cipher.encryptor()
-        encrypted = encryptor.update(padded_msg) + encryptor.finalize()
+        cipher = DES.new(key_bytes, DES.MODE_ECB)
+        encrypted = cipher.encrypt(padded_msg)
 
         return binascii.hexlify(encrypted).decode("utf-8").upper()
 
     except Exception as e:
-        print(f"加密 Authenticator 时发生错误: {e}")
+        print(f"UnionDesEncrypt: {e}")
 
 
 Entrance()

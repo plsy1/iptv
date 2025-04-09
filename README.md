@@ -1,12 +1,18 @@
-## 获取节目单
+## get-data
 
-```shell
-curl -X GET "http://112.245.125.58:8080/iptvepg/frame205/action/getchannelprogram.jsp?channelcode=ch00000000000000001170&currdate=2024.08.14" \
--H "Host: 112.245.125.58:8080" \
--H "Connection: keep-alive" \
--H "User-Agent: Mozilla/5.0 (X11; Linux x86_64; SkyworthBrowser) AppleWebKit/534.24 (KHTML, like Gecko) Safari/534.24 SkWebKit-SD-CU" \
--H "Cookie: JSESSIONID=; " 
-```
+获得`iptv.json`，包含频道信息。
+
+## gen-multicast
+
+从`iptv.json`生成`multicast.m3u`
+
+## gen-unicast-live
+
+从`iptv.json`生成`unicast-live.m3u`
+
+## gen-unicast-playback
+
+从`unicast-live.m3u`生成`unicast-playback.m3u`
 
 
 
