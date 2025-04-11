@@ -12,10 +12,19 @@ def generate_m3u(json_data):
             cleaned_url = channel['ChannelURL'].replace('igmp://', '')
             full_url = f'{base_url}{cleaned_url}'
 
-            group_title = '央视频道' if 'CCTV' in channel['ChannelName'] else '其他'
-            group_title = '卫视频道' if '卫视' in channel['ChannelName'] else '其他'
+            tvg_id = channel["UserChannelID"]
+            channel_name = channel["ChannelName"].replace('高清','').replace('标清','').replace('齐鲁','山东齐鲁')
             
-            m3u_content += f'#EXTINF:-1 tvg-id="{channel["UserChannelID"]}" tvg-name="{channel["ChannelName"]}" group-title="{group_title}", {channel["ChannelName"]}\n'
+            if 'CCTV' in channel_name:
+                group_title = '央视频道'
+            elif '卫视' in channel_name:
+                group_title = '卫视频道' 
+            elif '山东' in channel_name:
+                group_title = '山东频道' 
+            else:
+                group_title = '其他频道'
+
+            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{channel_name}" group-title="{group_title}", {channel_name}\n'
             m3u_content += f'{full_url}\n'
         else:
             print(f"频道 {channel['ChannelID']} 没有 ChannelURL,跳过")

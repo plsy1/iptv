@@ -50,6 +50,7 @@ def getEncryptToken():
 
     response = requests.get(full_url)
 
+
     if response.status_code == 200:
         match = re.search(r"GetAuthInfo\('(.*?)'\)", response.text)
         if match:

@@ -1,108 +1,108 @@
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV1高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV1
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18041911493947244872.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 泰安综合
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18041911493947244872.rsc/79887_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch12101814165876183439.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV3
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12101814165876183439.rsc/70035_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814361050007455.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814361050007455.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/75843_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11061217321508656858.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11061217321508656858.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/70007_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12101814181257469325.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV6
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12101814181257469325.rsc/70059_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV7高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV7
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch12101814184171314624.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV8
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12101814184171314624.rsc/70064_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV9高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV9
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV10高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV10
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV11高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV11
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015571407754299.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV12高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015571407754299.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV12
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV13高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV13
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/69923_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV少儿高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV少儿
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV15高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV15
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV17农业高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV17农业
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN 英语
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 齐鲁高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 齐鲁
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东文旅高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东文旅
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东生活高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东生活
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东综艺高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东综艺
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东体育高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东体育
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东新闻高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东新闻
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/70005_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11012815072111657053.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东农科高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11012815072111657053.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东农科
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11012815072111657053.rsc/70046_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东少儿高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东少儿
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/69988_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch17071714290877281996.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 居家购物
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch17071714290877281996.rsc/69959_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东教育卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东教育卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 浙江卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 浙江卫视
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/69949_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/69963_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/69997_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541756096231.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 辽宁卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541756096231.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 辽宁卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050917541756096231.rsc/69996_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 深圳卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 深圳卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12051116392957055081.rsc/70071_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东南卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东南卫视
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71682_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541519800547.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖北卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541519800547.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖北卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/69933_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15050917541650823873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广东卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch15050917541650823873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广东卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541650823873.rsc/69978_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch12051116400952898093.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 黑龙江卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch12051116400952898093.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 黑龙江卫视
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch12051116400952898093.rsc/70052_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17121814402415050847.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 贵州卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17121814402415050847.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 贵州卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17121814402415050847.rsc/75837_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814385494126166.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河北卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814385494126166.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河北卫视
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17121814385494126166.rsc/75853_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120118293449046768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 重庆卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120118293449046768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 重庆卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.rsc/70020_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120116181598810422.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海南卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120116181598810422.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海南卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/70001_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四川卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四川卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/69962_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118303484157828.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山西卫视
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/70039_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河南卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河南卫视
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江西卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江西卫视
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120114524702485505.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广西卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120114524702485505.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广西卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.rsc/69956_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120116035123677506.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 吉林卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120116035123677506.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 吉林卫视
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 云南卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 云南卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 陕西卫视
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp
@@ -112,9 +112,9 @@ rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch10120118204473437661.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新疆卫视
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 甘肃卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 甘肃卫视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/92476_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118273518671654.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 青海卫视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118273518671654.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 青海卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/69945_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120116213780720306.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 西藏卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp
@@ -134,17 +134,17 @@ rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418140581348001.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 厦门卫视
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74165_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418204481298161.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育1高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418204481298161.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育1
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/74278_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120417211408620162.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育2
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.rsc/74298_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418055568047747.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育4高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418055568047747.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育4
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/74289_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541337365144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰纪实高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch15050917541337365144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰纪实
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/70053_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23072116063432685915.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 延边卫视
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱体育高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱体育
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱上4K测试体验
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
@@ -174,11 +174,11 @@ rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215412921826390.
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN 俄语
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4K超高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4K超
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC家庭影院高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC家庭影院
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81481_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC动作电影高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC动作电影
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/81477_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18120514102191199606.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC影迷电影
 rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/81478_Uni.sdp
@@ -186,43 +186,43 @@ rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.
 rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/81479_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch18120514112382335432.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新动漫
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/81475_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV3高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV3
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12101814173650174727.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12101814173650174727.rsc/69979_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21072816530254611367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV6高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21072816530254611367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV6
 rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91842_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV8高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV8
 rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch17121814421621825244.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 动漫秀场高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch17121814421621825244.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 动漫秀场
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/96206_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316370413715540.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金色学堂高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316370413715540.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金色学堂
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/70002_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316323130170719.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 魅力足球高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316323130170719.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 魅力足球
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316323130170719.rsc/69931_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生活时尚高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生活时尚
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316281593708406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 都市剧场高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316281593708406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 都市剧场
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316281593708406.rsc/69947_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 乐游高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 乐游
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316234089749497.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 法治天地高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316234089749497.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 法治天地
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316234089749497.rsc/96400_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316213602697345.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 游戏风云高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch16051316213602697345.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 游戏风云
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/70026_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316174673479081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方财经高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316174673479081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方财经
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/96398_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 梨园高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 梨园
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610320200462249.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 武术世界高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610320200462249.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 武术世界
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610320200462249.rsc/96396_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610321303262159.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 文物宝库高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610321303262159.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 文物宝库
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610321303262159.rsc/92509_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610322847858391.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 精彩影视高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610322847858391.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 精彩影视
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610322847858391.rsc/92512_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610324607482092.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 茶高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610324607482092.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 茶
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610324607482092.rsc/92499_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21082717343948936881.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 快乐垂钓高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21082717343948936881.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 快乐垂钓
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21082717343948936881.rsc/96392_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch21092610331127874295.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 书画标清
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
@@ -322,13 +322,13 @@ rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209125585392509.
 rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22122209132553924896.rsc/98132_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch22122209135109414851.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 车迷标清
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209135109414851.rsc/98174_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch11122400412227153064.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰卡通高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch11122400412227153064.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰卡通
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/70028_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch22122209144768479365.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中华特产标清
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京纪实科教
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视4K超高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视4K超
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch24111213065813502431.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰卡通标清
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch24111213065813502431.rsc/101580_Uni.sdp
@@ -350,5 +350,5 @@ rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch24111213073337804127.
 rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch18102919143814079235.rsc/80244_Uni.sdp
 #EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩频道
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23112715323902470603.rsc/99884_Uni.sdp
-#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海洋频道高清
+#EXTINF:-1 catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海洋频道
 rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
