@@ -8,20 +8,52 @@
 
 不管了，继续更新，穷的吃不起饭了爱卖就卖。
 
-
 ## 使用说明
 
-1. multicast 目录下的是组播 M3U，各地区的组播地址，第三个字节有不同，因此分了多个文件，例如： 
+1. 推荐使用单播，起播/切台速度快
+
+2. 不开通 IPTV 服务不影响收看单播
+
+3. unicast 目录下的是单播 M3U：
+
+   - 导入到 APTV 使用： 
+
+      ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-aptv.m3u
+      
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-aptv.m3u
+
+   - 导入到 KU9 使用：  
+
+      ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-ku9.m3u
+      
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-ku9.m3u
+
+   - 导入到 rtp2httpd 使用：  
+
+      ​	Github: https://raw.githubusercontent.com/plsy1/iptv/main/unicast/unicast-rtp2httpd.m3u
+      
+      ​	jsDelivr(国内直连): https://fastly.jsdelivr.net/gh/plsy1/iptv@master/unicast/unicast-rtp2httpd.m3u
+
+4. multicast 目录下的是组播 M3U，各地区的组播地址，第三个字节有不同，因此分了多个文件，例如： 
 
    济南： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-jinan.m3u
 
    青岛： https://raw.githubusercontent.com/plsy1/iptv/main/multicast/multicast-qingdao.m3u
 
-2. multicast/local 目录下存放的是地方频道，会合并到组播列表里面，**欢迎提交 PR 添加**
+   但是我只能抓一个地方的组播，其他地区只不过是更改了地址的第三个字节，可能与实际有所出入。
 
-3. 山东地方频道，直接导入 KU9 播放（另有通用部署方式，详细可查看对应仓库内的说明）：https://fastly.jsdelivr.net/gh/plsy1/iqilu@master/iqilu-ku9.m3u
+5. multicast/local 目录下存放的是地方频道，会合并到组播列表里面，**欢迎提交 PR 添加**
+
+6. 山东地方频道，直接导入 KU9 播放（另有通用部署方式，详细可查看对应仓库内的说明）：https://fastly.jsdelivr.net/gh/plsy1/iqilu@master/iqilu-ku9.m3u
 
 ## 具体配置
+
+### 单播
+
+山东联通的 RTSP 单播仅支持 RTP OVER UDP 的传输方式，在 NAT 下的设备是没法收到 RTP 数据的。要正常收看单播需要做以下设置（满足其中一项即可）：
+- 有公网 IPV4 地址的情况下，走 PPPoE（山东联通默认是给公网的，没有的话在宽带账号后面加上 `@e` 再拨号）
+- 没有公网 IP, 需要 NAT 穿透，可以安装 [rtsproxy](https://github.com/plsy1/rtsproxy)，推荐直接部署到路由器上
+- 走 IPTV 接口（仅支持当地单播源，比如济南地区的单播源，在青岛就没办法通过 IPTV 接口访问）
 
 ### 组播
 
@@ -58,7 +90,7 @@
 
 ## 频道列表
 
-**更新时间**: 2026-01-04 22:57:37 UTC+8
+**更新时间**: 2026-01-04 23:11:41 UTC+8
 
 **频道总数**: 166
 
