@@ -1,9 +1,9 @@
 name: Update
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
   repository_dispatch:
     types: [iptv_update]
