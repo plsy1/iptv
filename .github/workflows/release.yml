@@ -29,7 +29,9 @@ jobs:
         run: |
           cp iptvtool-selfuse/output/README.md README.md
           rm -f multicast/*.m3u
+          rm -f unicast/*.m3u
           cp -r iptvtool-selfuse/output/multicast/* multicast/
+          cp -r iptvtool-selfuse/output/unicast/* unicast/
           rm -rf iptvtool-selfuse
       - name: Append local channel
         run: python3 utils/merge.py
