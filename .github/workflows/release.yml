@@ -1,0 +1,48 @@
+name: Update
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  workflow_dispatch:
+  repository_dispatch:
+    types: [iptv_update]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Clone Repository
+        env:
+          TOKEN: ${{ secrets.PAT }}
+          REPO: ${{ secrets.REPO }}
+        run: |
+          git clone "https://${TOKEN}@github.com/${REPO}.git" iptvtool-selfuse --depth 1
+
+      - name: Copy output
+        run: |
+          cp iptvtool-selfuse/output/README.md README.md
+          rm -f multicast/*.m3u
+          rm -f unicast/*.m3u
+          cp -r iptvtool-selfuse/output/multicast/* multicast/
+          cp -r iptvtool-selfuse/output/unicast/* unicast/
+          rm -rf iptvtool-selfuse
+      - name: Append local channel
+        run: python3 utils/merge.py
+
+      - name: Commit and Push changes
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update" || echo "Nothing to commit"
+          git push
+        

@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-name="泰山电视频道" group-title="山东频道", 泰山电视频道
+http://192.168.0.1:5140/rtp/239.253.240.244:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="岱岳" group-title="山东频道" catchup="default", 岱岳
+http://192.168.0.1:5140/rtp/239.253.240.245:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="新泰乡村" group-title="山东频道", 新泰乡村
+http://192.168.0.1:5140/rtp/239.253.240.246:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="宁阳综合" group-title="山东频道" catchup="default", 宁阳综合
+http://192.168.0.1:5140/rtp/239.253.240.247:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="宁阳二台" group-title="山东频道" catchup="default", 宁阳二台
+http://192.168.0.1:5140/rtp/239.253.240.248:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东平综合" group-title="山东频道" catchup="default", 东平综合
+http://192.168.0.1:5140/rtp/239.253.240.249:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="新泰综合" group-title="山东频道" catchup="default", 新泰综合
+http://192.168.0.1:5140/rtp/239.253.240.250:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="肥城综合" group-title="山东频道" catchup="default", 肥城综合
+http://192.168.0.1:5140/rtp/239.253.240.251:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="泰安综合" group-title="山东频道", 泰安综合
+http://192.168.0.1:5140/rtp/239.253.240.252:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="泰安经济生活" group-title="山东频道", 泰安经济生活
+http://192.168.0.1:5140/rtp/239.253.240.253:8000?fcc=124.132.240.66:15970
