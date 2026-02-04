@@ -355,5 +355,7 @@ http://192.168.0.1:5140/rtp/239.253.254.163:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.254.164:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="新动漫" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/新动漫.png" , 新动漫
 http://192.168.0.1:5140/rtp/239.253.254.157:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/财富天下.png" , 财富天下
+http://192.168.0.1:5140/rtp/239.253.254.147:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/环球旅游.png" , 环球旅游
 http://192.168.0.1:5140/rtp/239.253.254.71:8000?fcc=124.132.240.66:15970
