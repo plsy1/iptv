@@ -137,8 +137,6 @@ http://192.168.0.1:5140/rtp/239.253.254.66:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.254.82:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金鹰纪实.png" , 金鹰纪实
 http://192.168.0.1:5140/rtp/239.253.254.103:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 tvg-name="茶" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/茶.png" , 茶
-http://192.168.0.1:5140/rtp/239.253.254.143:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/快乐垂钓.png" , 快乐垂钓
 http://192.168.0.1:5140/rtp/239.253.254.144:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金鹰卡通.png" , 金鹰卡通
