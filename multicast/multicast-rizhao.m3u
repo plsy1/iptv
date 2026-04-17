@@ -175,12 +175,12 @@ http://192.168.0.1:5140/rtp/239.253.224.56:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.224.57:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/宁夏卫视.png" , 宁夏卫视
 http://192.168.0.1:5140/rtp/239.253.224.150:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山西卫视.png" , 山西卫视
-http://192.168.0.1:5140/rtp/239.253.224.48:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/陕西卫视.png" , 陕西卫视
 http://192.168.0.1:5140/rtp/239.253.224.49:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/内蒙古卫视.png" , 内蒙古卫视
 http://192.168.0.1:5140/rtp/239.253.224.58:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山西卫视.png" , 山西卫视
+http://192.168.0.1:5140/rtp/239.253.224.48:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/农林卫视.png" , 农林卫视
 http://192.168.0.1:5140/rtp/239.253.224.70:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/厦门卫视.png" , 厦门卫视
