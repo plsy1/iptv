@@ -15,6 +15,8 @@ rtsp://112.245.125.70:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.
 rtsp://112.245.125.71:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/77595_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV6.png" catchup="default" catchup-source="rtsp://112.245.125.73:1554/iptv/Tvod/iptv/001/001/ch21072816530254611367.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV6
 rtsp://112.245.125.74:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/92244_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV7.png" catchup="default" catchup-source="rtsp://112.245.125.73:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV7
+rtsp://112.245.125.74:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/77602_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV8.png" catchup="default" catchup-source="rtsp://112.245.125.73:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV8
 rtsp://222.132.188.144:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/93388_Uni.sdp
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV9.png" catchup="default" catchup-source="rtsp://112.245.125.70:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV9
@@ -299,5 +301,3 @@ rtsp://222.132.188.137:1554/iptv/import/Tvod/iptv/001/001/ch24012314300175015886
 rtsp://222.132.188.137:1554/iptv/import/Tvod/iptv/001/001/ch24012314302384136112.rsc/100090_Uni.sdp
 #EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/财富天下.png" catchup="default" catchup-source="rtsp://222.132.188.144:1554/iptv/Tvod/iptv/001/001/ch21082717345151428687.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", 财富天下
 rtsp://222.132.188.144:1554/iptv/import/Tvod/iptv/001/001/ch21082717345151428687.rsc/96390_Uni.sdp
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV7.png" catchup="default" catchup-source="rtsp://112.245.125.73:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV7
-rtsp://112.245.125.74:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/77602_Uni.sdp

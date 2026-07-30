@@ -15,6 +15,8 @@ http://192.168.0.1:5140/rtp/239.253.250.192:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.250.80:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV6.png" , CCTV6
 http://192.168.0.1:5140/rtp/239.253.250.193:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV7.png" , CCTV7
+http://192.168.0.1:5140/rtp/239.253.250.233:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV8.png" , CCTV8
 http://192.168.0.1:5140/rtp/239.253.250.194:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV9.png" , CCTV9
@@ -299,5 +301,3 @@ http://192.168.0.1:5140/rtp/239.253.250.163:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.250.164:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/财富天下.png" , 财富天下
 http://192.168.0.1:5140/rtp/239.253.250.147:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV7.png" , CCTV7
-http://192.168.0.1:5140/rtp/239.253.250.233:8000?fcc=124.132.240.66:15970
