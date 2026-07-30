@@ -7,6 +7,8 @@ http://192.168.0.1:5140/rtp/239.253.228.232:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.191:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4.png" , CCTV4
 http://192.168.0.1:5140/rtp/239.253.228.111:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4欧洲.png" , CCTV4欧洲
+http://192.168.0.1:5140/rtp/239.253.228.186:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5.png" , CCTV5
 http://192.168.0.1:5140/rtp/239.253.228.192:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5+.png" , CCTV5+
@@ -33,6 +35,8 @@ http://192.168.0.1:5140/rtp/239.253.228.236:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.170:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV17.png" , CCTV17
 http://192.168.0.1:5140/rtp/239.253.228.168:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4K.png" , CCTV4K
+http://192.168.0.1:5140/rtp/239.253.228.122:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="山东卫视4K" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东卫视4K.png" , 山东卫视4K
 http://192.168.0.1:5140/rtp/239.253.228.172:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/江苏卫视4K.png" , 江苏卫视4K
@@ -73,18 +77,36 @@ http://192.168.0.1:5140/rtp/239.253.228.24:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.25:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="山东教育" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东教育.png" , 山东教育
 http://192.168.0.1:5140/rtp/239.253.228.59:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东经济广播" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东经济广播.png" , 山东经济广播
+http://192.168.0.1:5140/rtp/239.253.228.166:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东海洋频道.png" , 山东海洋频道
+http://192.168.0.1:5140/rtp/239.253.228.67:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN西语" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN西语.png" , CGTN西语
+http://192.168.0.1:5140/rtp/239.253.228.182:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CGTN阿语.png" , CGTN阿语
+http://192.168.0.1:5140/rtp/239.253.228.184:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/北京卫视.png" , 北京卫视
 http://192.168.0.1:5140/rtp/239.253.228.85:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/北京纪实科教.png" , 北京纪实科教
+http://192.168.0.1:5140/rtp/239.253.228.165:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/卡酷少儿.png" , 卡酷少儿
 http://192.168.0.1:5140/rtp/239.253.228.66:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/湖南卫视.png" , 湖南卫视
 http://192.168.0.1:5140/rtp/239.253.228.82:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金鹰纪实.png" , 金鹰纪实
 http://192.168.0.1:5140/rtp/239.253.228.103:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/快乐垂钓.png" , 快乐垂钓
+http://192.168.0.1:5140/rtp/239.253.228.144:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金鹰卡通.png" , 金鹰卡通
 http://192.168.0.1:5140/rtp/239.253.228.117:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/河南卫视.png" , 河南卫视
 http://192.168.0.1:5140/rtp/239.253.228.190:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/梨园.png" , 梨园
+http://192.168.0.1:5140/rtp/239.253.228.139:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="武术世界" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/武术世界.png" , 武术世界
+http://192.168.0.1:5140/rtp/239.253.228.140:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="文物宝库" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/文物宝库.png" , 文物宝库
+http://192.168.0.1:5140/rtp/239.253.228.141:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/浙江卫视.png" , 浙江卫视
 http://192.168.0.1:5140/rtp/239.253.228.84:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/东方卫视.png" , 东方卫视
@@ -135,6 +157,8 @@ http://192.168.0.1:5140/rtp/239.253.228.195:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.56:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/兵团卫视.png" , 兵团卫视
 http://192.168.0.1:5140/rtp/239.253.228.57:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/宁夏卫视.png" , 宁夏卫视
+http://192.168.0.1:5140/rtp/239.253.228.150:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/陕西卫视.png" , 陕西卫视
 http://192.168.0.1:5140/rtp/239.253.228.49:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/内蒙古卫视.png" , 内蒙古卫视
@@ -155,8 +179,26 @@ http://192.168.0.1:5140/rtp/239.253.228.110:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.107:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="中国教育4" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/中国教育4.png" , 中国教育4
 http://192.168.0.1:5140/rtp/239.253.228.116:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/四海钓鱼.png" , 四海钓鱼
+http://192.168.0.1:5140/rtp/239.253.228.118:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/汽摩.png" , 汽摩
+http://192.168.0.1:5140/rtp/239.253.228.161:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="中国交通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/中国交通.png" , 中国交通
 http://192.168.0.1:5140/rtp/239.253.228.177:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="金色学堂" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金色学堂.png" , 金色学堂
+http://192.168.0.1:5140/rtp/239.253.228.101:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="都市剧场" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/都市剧场.png" , 都市剧场
+http://192.168.0.1:5140/rtp/239.253.228.98:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="乐游" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/乐游.png" , 乐游
+http://192.168.0.1:5140/rtp/239.253.228.97:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="法治天地" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/法治天地.png" , 法治天地
+http://192.168.0.1:5140/rtp/239.253.228.96:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="游戏风云" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/游戏风云.png" , 游戏风云
+http://192.168.0.1:5140/rtp/239.253.228.95:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="精彩影视" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/精彩影视.png" , 精彩影视
+http://192.168.0.1:5140/rtp/239.253.228.142:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="求索纪录" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/求索纪录.png" , 求索纪录
+http://192.168.0.1:5140/rtp/239.253.228.231:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="谍战剧场" group-title="轮播频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/谍战剧场.png" , 谍战剧场
 http://192.168.0.1:5140/rtp/239.253.228.135:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="城市剧场" group-title="轮播频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/城市剧场.png" , 城市剧场
@@ -239,9 +281,23 @@ http://192.168.0.1:5140/rtp/239.253.228.131:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.228.128:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="爱大剧" group-title="轮播频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/爱大剧.png" , 爱大剧
 http://192.168.0.1:5140/rtp/239.253.228.132:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="海看演艺" group-title="轮播频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/海看演艺.png" , 海看演艺
+http://192.168.0.1:5140/rtp/239.253.228.158:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="收视指南" group-title="轮播频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/收视指南.png" , 收视指南
 http://192.168.0.1:5140/rtp/239.253.228.124:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="书画" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/书画.png" , 书画
+http://192.168.0.1:5140/rtp/239.253.228.146:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="优优宝贝" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/优优宝贝.png" , 优优宝贝
+http://192.168.0.1:5140/rtp/239.253.228.72:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="优漫卡通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/优漫卡通.png" , 优漫卡通
 http://192.168.0.1:5140/rtp/239.253.228.64:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/嘉佳卡通.png" , 嘉佳卡通
 http://192.168.0.1:5140/rtp/239.253.228.65:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="发现之旅" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/发现之旅.png" , 发现之旅
+http://192.168.0.1:5140/rtp/239.253.228.162:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中学生" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/中学生.png" , 中学生
+http://192.168.0.1:5140/rtp/239.253.228.163:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="老故事" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/老故事.png" , 老故事
+http://192.168.0.1:5140/rtp/239.253.228.164:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/财富天下.png" , 财富天下
+http://192.168.0.1:5140/rtp/239.253.228.147:8000?fcc=124.132.240.66:15970
